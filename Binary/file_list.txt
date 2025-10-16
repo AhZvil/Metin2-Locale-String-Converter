@@ -1,0 +1,17 @@
+locale_string.txt
+locale_string_AE.txt
+locale_string_CZ.txt
+locale_string_DE.txt
+locale_string_DK.txt
+locale_string_EN.txt
+locale_string_ES.txt
+locale_string_FR.txt
+locale_string_GR.txt
+locale_string_HU.txt
+locale_string_IT.txt
+locale_string_NL.txt
+locale_string_PL.txt
+locale_string_PT.txt
+locale_string_RO.txt
+locale_string_RU.txt
+locale_string_TR.txt

@@ -1,0 +1,902 @@
+1	(Lejárati dáutm: %d y- %d m - %d d)
+2	Max. Kitartás + %d
+3	Még %d könyvet kell olvasnod a tréning befejezéséhez.
+4	%d Arany adományozva
+5	%d Arany megkapva
+6	Ezt a hajszint csak %d szinttõl lehet használni.
+7	Chat elérésed blokkolva %d órára %d percre és %d másodpercre. Legközelebb légyszíves moderáld magad!
+8	Chat elérésed blokkolva %d órára %d percre. Legközelebb légyszíves moderáld magad!
+9	Chat elérésed blokkolva %d órára %d másodpercre. Legközelebb légyszíves moderáld magad!
+10	Chat elérésed blokkolva %d percre és %d másodpercre. Legközelebb légyszíves moderáld magad!
+11	Chat elérésed blokkolva %d másodpercre. Legközelebb légyszíves moderáld magad!
+12	Megfogva %d a %d közül.
+13	%d másodpercen belül újra használhatod az áldást.
+14	A hatás %d másodpercen belül lejár. 
+15	%d percen belül teleportálva leszel.
+16	%d%% esély az átható találatra
+17	%d%% esély tapasztalat szerzésére.
+18	%d%% esély a dupla arany dobásra
+19	%d%% esély HP visszaállításra.
+20	%d%% esély dupla mennyiségû tárgy eldobásra.
+21	%d%% esély MP visszaállításra.
+22	%d%% esély a kritikus találatra
+23	%d%% esély MP rablásra.
+24	Veszteségek %d%% -a az MPbõl eltûnik.
+25	%d perc
+26	%d Játékidõ hozzáadva a számládhoz. (Számlaszám: %d)
+27	%d óra
+28	%d tapasztalati pont kapott.
+29	%d másodperc a végéig.
+30	A szerver leáll %d másodperc múlva.
+31	%s: %d
+32	%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d
+33	%s SP Usage: %d 
+34	A(z) %s céh hadat üzent a(z) %s céhnek!
+35	A(z) %s céh megnyerte a háborút a(z) %s céh ellen.
+36	%s céh megszerezte a(z) %s céh zászlóját!
+37	A háború a(z) %s céh és a(z) %s céh között döntetlenül végzõdött.
+38	A háború a(z) %s céh és a(z) %s céh között végetért.
+39	A háború a(z) %s céh és a(z) %s céh között perceken belül kezdõdik!
+40	A háború a(z) %s céh és a(z) %s céh között elkezdõdött.
+41	A(z) %s céh növekedett %d%% -ot!
+42	%s a céh %s megint normális.
+43	Az üzlet %s személlyel sikerült.
+44	Szeretnél csatlakozni %s csoportjába?
+45	%s elutasította a kérést
+46	A játékos %s a %d CH-hoz kapcsolódik. (current channel:%d)
+47	A játékos %s a %d CH-n tartózkodik. (current channel:%d)
+48	%s nincs a közeledben.
+49	%s nincs játékban.
+50	%s a játékos jelenleg cselekszik.
+51	%s meg lett hívva.
+52	A párbaj gyõztese: %s.
+53	%s gyõzött.
+54	%s blokkolva! (%d%%)
+55	%s -re szükséged lesz.
+56	Teleportálva leszel %s.
+57	%s Fennmaradó idõ az eltávolitásig: %d 
+58	%s blokkolva! (%d%%)
+59	%s: Ez a céh nem létezik.
+60	%s[%d]s tamádási pozíció: %d %d
+61	A párbaj %s ellen megkezdõdött!
+62	%s párbajra hívott téged!
+63	%s megsemmisült.
+64	A Drágakövek a %s tárgyból eltûntek.
+65	%s A háború kezdetét a hatalom tüzei jelképezik. 
+66	Párbajra hívtad %s-t.
+67	%s a hatalom tüzei ellen folyamatban van.
+68	%s -ban %s mostantól +%d%%
+69	%s 's %s újra normális.
+70	%s Király fel lett mentve. Az új Király Lord %s.
+71	%s A szörnyek a vár felé menetelnek.
+72	%s megsemmisítette az összes hatalom tüzét.
+73	%s megsemmisített egy hatalom tüzét.
+74	%s megvédte a várat.
+75	%s vereséget szenvedett a háborúban, mivel nem védte meg a várat.
+76	%s szükséges lesz.
+77	(%s) Céh létrejött. [Ideiglenes]
+78	Miután legyõzõd a Szent Föld õreit, Te leszel a szent föld királya.[ENTER][ENTER]
+79	[%sVezér] : %s 
+80	[%sVezér] : %s értéke %d 
+81	[TEST_ONLY]Adó megemelve: %d 
+82	[Fejlesztés] A tárgyat csak plusz +3 as szintig használhatod fejlesztésre.
+83	[Céh] %d Készség felhasználva (%d, %d)  %u -ig
+84	[Céh] %s elutasította a céh háborút.
+85	[Céh] %u Tapasztalat felhasználva.
+86	[Céh] %u Sárkány szellem visszaállítva.
+87	[Céh] [%s] céh létrejött.
+88	[Céh] Nincs nálad elég arany.
+89	[Céh] A Tapasztalat használata nem sikerült.
+90	[Céh] Te nem készíthetsz bejelentést.
+91	[Céh] A keresett személy nem található.
+92	[Céh] Ez a céh nem létezik.
+93	[Céh] Csak a céh mester veheti ki az Aranyat.
+94	[Céh] Nem sikerült létrehozni a céhet.
+95	[Céh] Te nem változtathatod meg a céh készségek szintjét.
+96	[Céh] A céh készségeket csak céh háborúban használhatod.
+97	[Céh] Helytelen céh név.
+98	[Céh] A céh elérte a maximum szintet.
+99	[Céh] Nem alapíthatsz céhet.
+100	[Céh] Csak az átrendezés után %d nappal hívhatsz meg újra játékosokat.
+101	[Céh] Nem tartozik a céhhez
+102	[Céh] %s Ki lett dobva a céhbõl.
+103	[Céh] Kidobtál egy céh tagot.
+104	[Céh] Te nem dobhatsz ki céh tagot.
+105	[Céh] Te nem hívhatsz meg tagokat a céhbe.
+106	[Céh] Csak a céh mester használhatja a cég készséget.
+107	[Céh] Nem nevezheted ki magad céh mesterré.
+108	[Céh] A Céhvezér hatásköre nem módosítható.
+109	[Céh] A Céh vezér rangja nem módosítható.
+110	[Céh] Céh háború közben nem rúghatsz ki céh tagot
+111	[Céh] Senki nem vehet részt a háborún.
+112	[Céh] Legalább %d játékosra van szükség hogy résztvehess egy céh háborúban.
+113	[Céh] Legalább %d céh szintre van szükség, hogy részt vehess egy céh háborúban.
+114	[Céh] A céh háború végetért.
+115	[Céh] Nincs vadászat céh háború alatt.
+116	[Céh] Más birodalom tagjait nem hívhatod a céhbe.
+117	[Céh] Nem választhatsz több vezetõt.
+118	[Céh] Nincs elég Arany.
+119	[Céh] Elértük a %d Pontot.
+120	[Céh] Helyezés túl alacsony ahhoz, hogy részt vegyenek egy céh háborúban.
+121	[Céh] Az üzenet nem törölhetõ.
+122	[Céh] A játékos a következõ Ch-n tartózkodik: %d. (jelenlegi Ch: %d)
+123	[Céh] A játékos nem online.
+124	[Céh] A céh jelenleg háborúzik.
+125	[Céh] Az ellenséges céhben nincs elég tag a háborúhoz
+126	[Céh] Az ellenséges céhnek nincs meg a szükséges szintje a háborúhoz
+127	[Céh] A céh vezetõ nem online.
+128	[Céh] Az ellenséges céhnek nincs elég pontja hogy résztvegyen egy háborún.
+129	[Céh] A céhnek nincs elég Aranya hogy résztvegyen egy háborún.
+130	[Céh] Ez a játékos már a céhed tagja.
+131	[Céh] A játékos visszautasította a céh meghívást.
+132	[Céh] Ez a játékos már egy másik céh tagja.
+133	[Céh] A karakterek még nem tudnak csatlakozni.
+134	[Céh] A Sárkány szellem nincs feltöltve.
+135	[Céh] Nincs elég sárkányszellem. (%d, %d)
+136	[Céh] Ez a céhnév már foglalt.
+137	[Céh] A céhed már részt vesz egy másik háborúban.
+138	[Céh] Ez a Céh már részt vesz egy másik háborúban.
+139	[Céh] Ez a céh már egy másik háborúban vesz részt.
+140	[Céh] Érvénytelen összeg.
+141	[Céh] Néhány pillanat múlva újra használható.
+142	[Céh] Nem választhatsz más vezért.
+143	[Céh] Helytelen rang név.
+144	[Céh] Nincs elég Arany egy céh háborúhoz.
+145	[Céh] A tapasztalat pont amelyel támogatnád több, mint amennyire a céhnek szüksége van.
+146	[Céh] Nem módosíthatod a rangod.
+147	[Céh] Nem módosíthatod a rang neved.
+148	[Céh] A céh kapacitás elérte felsõ határát.
+149	[Céh] Még nem használhatod a céh készségeket.
+150	[Céh] Nem alapíthatsz új céhet %d napig.
+151	[Céh] A játékost csak %d nap múlva hívhatod meg.
+152	[Céh] A céh törlése után nem alapíthatsz új céhet %d napig.
+153	[Céh] A céh háborúban van.
+154	[Messenger] %s-t törölted a barátlistádról. 
+155	[Messenger] %s-t felvetted a barátlistádra.
+156	[Messenger] Nem vehetsz fel GM-et a barátlistádra.
+157	[Raktáros] Túl messze vagy a raktárostól hogy megnyithasd a raktárad.
+158	[Raktáros] Rossz jelszót adtál meg.
+159	[Raktáros] A jelszóban csak az angol abc betûi és számok szerepelhetnek.
+160	[Raktáros] A mozgás nem lehetséges.
+161	[Raktáros] Ez a tárgy nem tárolható.
+162	[Raktáros] A raktár jelszó megváltoztatva.
+163	[Raktáros] A raktár már nyitva van.
+164	[Raktáros] Csak 10 másodperc múlva nyithatod meg újra.
+165	[Küldetés] A jutalmat már kiosztották, elkéstél.
+166	[Csoport] %s elutasította a meghívásod a csoportba.
+167	[Csoport] %s csatlakozott a csoportba.
+168	[Csoport] %s elutasította a meghívásod.
+169	[Csoport] %s csatlakozott a csoportbaaaaa.
+170	[Csoport] Csak -30  +30 szint külömbséggel hívhatsz játékost a csoportba.
+171	[Csoport] Nem hívhatsz meg játékost megfigyelõ módban.
+172	[Csoport] Nem lehetsz csoportban más birodalom tagjaival.
+173	[Csoport] Te nem dobhatsz ki csoport tagokat.
+174	[Csoport] Nem hívhatod meg a célpontot.
+175	[Csoport] Nem hívhatsz játékosokat a csoportba, egy kazamatában.
+176	[Csoport] Nem léphetsz be csoportba egy kazamatában.
+177	[Csoport] Nem hagyhatod el a csoportot egy kazamatában.
+178	[Csoport] Nem dobhatsz ki játékost egy kazamatában.
+179	[Csoport] Nem léphetsz ki a csoportból egy kazamatában.
+180	[Csoport] Nem dobhatsz ki játékost egy kazamatában.
+181	[Csoport] Ezt csak a csoport vezetõ módosíthatja.
+182	[Csoport] A célpont nem a te csoportod tagja.
+183	[Csoport] Egy hiba lépett fel a csoport megalakítása közben.
+184	[Csoport] A cél nem található.
+185	[Csoport] Hiba lépett fel a támadónak kinevezés során.
+186	[Csoport] %s már csoportban van.
+187	[Csoport] Csak a csoport vezetõ használhatja a csoport készségeket.
+188	[Csoport] Nem fogadhatod el a meghívást.
+189	[Csoport] A Csoport feloszlott.
+190	[Csoport] Nem hívhatod meg a játékost, a szintje túl alacsony.
+191	[Csoport] Nem hívhatod meg a játékost, a szintje túl magas.
+192	[Csoport] Kiléptél a csoportból.
+193	[Csoport] Kirúgtak a csoportból.
+194	[Csoport] A meghívott játékos nem online.
+195	[Csoport] Neked nincs jogod meghívni egy játékost.
+196	[Csoport] A jelenlegi helyzetben nem hívhatsz meg csoport tagokat.
+197	[Csoport] A csoport már tele van.
+198	[Rendszer] A támadás a vár ellen 10 perc múlva kezdõdik.
+199	[Céh] A következõ kör 10 másodperc múlva kezdõdik.
+200	[Céh] A harc 10 másodperc múlva kezdõdik.
+201	[Rendszer] 10 másodperc múlva teleportálhatsz a városba.
+202	[Rendszer] 10 másodperc múlva visszakerülsz.
+203	[OX] A választ megtudod 5 másodperc múlva.
+204	[Rendszer] Lekapcsolódás a szerverrõl 10 másodperc múlva.
+205	[Rendszer] Válassz egy számot 1 és 50 között.
+206	[Céh] Ha nincs ellenség, a háború automatikusan véget ér.
+207	[Bolt] A bolt nyitása nem sikerült, mert egyszerre maximum 1 billiárd arany lehet nálad.
+208	[Bolt] Nem veheted át a kijelölt összeget, mert egyszerre maximum 1 billiárd arany lehet nálad.
+209	[Rendszer] Nem veheted át a kijelölt összeget, mert egyszerre maximum 1 billiárd arany lehet nálad.
+210	[Bolt] Nem adhatod el ennyiért a tárgyat, mert egyszerre maximum 1 billiárd arany lehet nálad.
+211	[Rendszer] Gyõzd le 30 percen belül a hatalom tüzét.
+212	[Rendszer] Letelt a 30 perc.. a hatalom tüze eltûnik.
+213	[Rendszer] 5 Perc múlva csatlakozhatsz.
+214	[OX] Akik rosszul válaszoltak, 5 másodperc múlva kiesnek.
+215	[OX] Igen (O)
+216	[OX] Többen nem vehetnek részt az eventen.
+217	[OX] Még van hely további résztvevõknek.
+218	TEST: A jelenlegi költségvetés: %d
+219	TEST: Az aranybéka visszakerült a kincstárba.
+220	TEST: Az aranybéka nem került vissza a kincstárba.
+221	[OX] Nem (X)
+222	[Rendszer] Nyugton kell maradnod a tárgy felvételéhez.
+223	[Birodalmi háború] Információ a birodalmakról
+224	[Rendszer]A bolt nyitásához, le kell venned a vérted.
+225	[Rendszer] Hibás értéket adtál meg.
+226	[Rendszer] Ezt nem használhatod.
+227	[Rendszer] Nem foglalhatsz le több metin követ.
+228	[Rendszer] Ezt nem tudod elhelyezni.
+229	[Rendszer] Ebbõl az épületbõl nem lehet több.
+230	[Rendszer] A szinted kisebb lesz mint a tárgyhoz szükséges szint, a feljavítás után.
+231	[Rendszer] A szinted nagyobb lesz mint a tárgyhoz szükséges szint, a feljavítás után.
+232	[Rendszer] Nincs elég Arany a javításhoz.
+233	[Rendszer] Nincs megfelelõ tárgyad a javításhoz.
+234	[Rendszer] Nem nyithatod meg a raktárat az arénában.
+235	[Rendszer] %d másodpercet várnod kell bolt zárás után!
+236	[Rendszer] Ezt nem lovagolhatod meg.
+237	[Rendszer] Kereskedés után nem nyithatod meg a raktárat %d másodpercig.
+238	[Rendszer] Kereskedés után nem használhatsz visszaállító tekercset %d másodpercig.
+239	[Rendszer] Nem mehetsz el a kereskedés után %d másodpercig.
+240	[Rendszer] Nem használhatod a Visszaállító Tekercset amígy nyitva van egy ablak.
+241	[Rendszer] Kereskedés után egy ideig nem léphetsz ki, és nem mehetsz el.
+242	[Rendszer] Nem nyithatod meg a raktárat amíg egy másik ablak nyitva van.
+243	[OX] HAMIS
+244	[Teen] A kapcsolat hamarosan helyreáll kérlek várj.
+245	[Rendszer] Nincs elég Arany az épület megépítéséhez
+246	[Rendszer] Ezt az épületet nem helyezheted itt el.
+247	[Rendszer] Ehhez az épülethez szükséged van egy fõépületre.
+248	Teen] A kezdeti szerelmi pont, minden házasságnál 50 %.
+249	[Rendszer] Lekapcsolódás a szerverrõl. Kérlek várj.
+250	[Rendszer] Az idõ %d perc múlva lejár.
+251	[Rendszer] Nem viselheted az eljegyzési gyûrût ha nem vagy házas
+252	[Rendszer] Az esküvõ hamarosan véget ér
+253	[Rendszer] Nem használhatod ezt a tárgyat ha nem vagy házas.
+254	[Rendszer] A tapasztalat pont szerzés aránya jelenleg +%d%%!
+255	[Rendszer] Tapasztalati pont: %d%%
+256	[Rendszer] Nincs elég tapasztalati pontod az olvasáshoz.
+257	[Halászat] Elveszítetted a csalit.
+258	[Halászat] Kifogtál egy halat! (%s)
+259	[Halászat] A hal eltûnt a mély vízbe.
+260	[Bányászat] A bányászati pontjaid elérték a maximumot (%d).
+261	[Bányászat] A bányászati pontjaid elérték a legmagasabb szintet.
+262	[Bányászat] Nem bányászhatsz csákány nélkül.
+263	[Bányászat] Szerezz egy csákányt.
+264	[Bányászat] A bányászati pontjaid emelkedtek! (%d/%d)
+265	[Rendszer] Az arany dobás arány jelenleg +%d%%!
+266	Támadóérték+ %d
+267	Támadás+ %d%%
+268	Támadó sebesség+%d
+269	[Rendszer] Nem akarok többet tanulni.
+270	[Rendszer] Nem vehetsz részt a céh háborún megfigyelõ módban
+271	[Rendszer] Nem kereskedhetsz megfigyelõ módban.
+272	Átható találat %d
+273	[Rendszer] Ezt nem használhatod.
+274	[Rendszer] A démon király visszavonult.
+275	[Rendszer] A démon királyt és csatlósait legyõzték.
+276	[Rendszer] Nem tudsz teleportálni.
+277	[Rendszer] A tréninget befejezted.
+278	[Rendszer] Igen, ez jó érzés. A testem tele van Chi-vel.
+279	[Rendszer] Lassan, de folyamatosan ... megállás nélkül.
+280	[Rendszer] You cannot train this Skill up to Grand Master.
+281	[Rendszer] Ez a parancs nem létezik.
+282	[Rendszer] Ez a személy nem létezik.
+283	[Rendszer] Nem létezik céh ilyen névvel vagy számmal.
+284	If not, all the stat will become 0 and may harm your health.
+285	Erõ +%d
+286	[Rendszer] Nincs elég erõd a használatához.
+287	[Rendszer] Nem tudsz másik birodalomba teleportálni.
+288	[Rendszer] Nem teheted másik birodalomban.
+289	Immunitási esély ájulásra %d%%
+290	[Rendszer] Nem csatlakozhatsz ehhez a céhez.
+291	Tag
+292	Vezetõ
+293	[Céh] Nincsenek ellenfelek.
+294	Mivel a céh háború idõ elõtt végetért, az eredmény döntetlen lett.
+295	Az álmaimban? Mi van?
+296	[Bányászat] Feljavíthatod a csákányod a favágó segítségével.
+297	[Rendszer] Titokzatos fény jelenik meg a fán.
+298	[Rendszer] Nem változhatsz át, mert amivé változnál nagyobb szintû mint te.
+299	[Rendszer] Császári információ
+300	[Rendszer] Információ a birodalmi csatáról
+301	[Halászat] Nem cserélhetsz csalit horgászás közben.
+302	[Halászat] Nem horgászhatsz bot nélkül!
+303	[Halászat] Nem tudod tovább javítani a horgász botodat.
+304	[Halászat] Horgászbotra szükség lesz.
+305	[Halászat] Felhelyezted a %s csalit a horogra.
+306	[Halászat] A horgászpontjaid emelkedtek! (%d/%d)
+307	[Halászat] Ponty horgász verseny
+308	[Halászat] Ponty horgász verseny2
+309	[GM]Nincs elég HP-d.
+310	[GM] Nincs több státusz pontod.
+311	[GM] A fennmaradó státuszpont túl kevés.
+312	Nincs elég MP a használatához.
+313	[Teen] 5 órán keresztül nem használhatod.
+314	 Ló
+315	[Rendszer] Sikeresen elolvasva.
+316	[Rendszer] Egyszerre nem lehet nyitva több kereskedés.
+317	[Rendszer] Zárd be a többi ablakot és próbáld újra!
+318	[Rendszer] Nem hívhatod meg a játékost mert egy másik birodalom tagja.
+319	[Rendszer] Valaki bejelentkezett a felhasználó neveddel. Lekapcsolunk a szerverrõl.
+320	[Rendszer] Készülj fel a következõ kérdésre.
+321	[Rendszer] Elõbb hozzá kell adnod a foglalatot
+322	Bezárás
+323	Túl régóta be vagy jelentkezve
+324	A játékidõd túl sok.
+325	Kérlek jelentkezz be újra
+326	Az összes offline idõd: %s, Az összes online idõd: %s.
+327	Az összes offline idõd: %s.
+328	A játékidõd nullázva, mert elérte a 100% -ot.
+329	Az összesített online idõd %d .
+330	Az összes online idõd már : %d óra.
+331	[Rendszer] Párbaj sikeresen törölve.
+332	[Rendszer] Párbaj törlése sikertelen.
+333	[Rendszer] A párpbaj véget ért.
+334	[Rendszer] A párbaj idõtúllépés miatt véget ért.
+335	[Rendszer] Probléma merült fel a párbaj indításánál.
+336	[Rendszer] Nem használhatod ezt a tárgyat párbaj közben.
+337	[Rendszer] A párbaj sikeresen elindult.
+338	[Rendszer] A párbaj elkezdõdött
+339	[Rendszer] A párbaj véget ért.
+340	[Aréna] Hiba lépett fel az aréna betöltése közben, a párbaj véget ért.
+341	No Combatants there.
+342	[Aréna] Nem használhatod ezt a tárgyat az arénában.
+343	[Rendszer] A bonus Arany dobás esélye %d%% -ra növekedett
+344	[Rendszer] Túl alacsony a szinted a tanulás befejezéséhez.
+345	[Rendszer] Nem fejlesztheted tovább.
+346	[Rendszer] Nem fejlesztheted tovább a készséget.
+347	[Rendszer] Nem tanulhatsz többet a lovaglásról.
+348	[Rendszer] Nem használhatod a tárgyat további fejlesztésre.
+349	[Rendszer] Nem használhatod a tárgyat további fejlesztésre.
+350	[Rendszer] Ezt a tárgyat még nem használhatod
+351	[Bányászat] Nem használhatod azt most.
+352	[Rendszer] %s%s nem használható egy kazamatában.
+353	Méreg ellenállás %d%%
+354	Mérgezési esély %d
+355	[Rendszer] %lld Aranyat kaptál.
+356	[Rendszer] 1f% esély a dupla mennyiségû Arany eldobására
+357	[Rendszer] Nincs elég Arany vagy nincs elég hely a leltárban.
+358	A lovad szörnyek elleni ereje +%d%%
+359	[Rendszer] Te már viseled ezt a frizurát.
+360	Kétkezes védelem %d%%
+361	[Rendszer] Ezt nem teheted, amíg át vagy változva.
+362	[Rendszer] Nem módosíthatod a felszerelésed, amíg át vagy változva
+363	[Rendszer] A tréning sikeres volt. Elérted a mester szintet
+364	[Rendszer] Nem sikerûlt átváltozni.
+365	[Rendszer] Ezt a technikát nehéz megérteni.
+366	[Rendszer] Az eldobott tárgy 1 perc múlva eltûnik.
+367	[Rendszer] A képesség emelkedett
+368	[Rendszer] El kell érned a 30-as szintet hogy ezt megértsd.
+369	[Rendszer] El kell érned az 50-es szintet hogy ezt megértsd.
+370	[Rendszer] A szinted túl alacsony a használatához.
+371	[Rendszer] A szinted túl magas a használatához.
+372	[Rendszer] Vissza a bejelentkezõ ablakhoz. Kérlek várj.
+373	[Rendszer] 1268-ik sor locale_string
+374	Mágia támadás + %d
+375	Mágia védelem + %d
+376	Mágia ellenállás %d%%
+377	[Rendszer] A lelked felszabadult, tisztának érzed magad
+378	[Rendszer] Használj egy tárgyat a lovad hívásához
+379	[Rendszer] A ló hívása nem sikerült.
+380	[Rendszer] A lovad jelenlegi kitartása %s%s.
+381	[Rendszer] Megetetted a lovad.
+382	[Rendszer] A lovadat csak egy növénnyel tudod feléleszteni.
+383	[Rendszer] Elõbb szállj le a lovadról.
+384	[Rendszer] Visszaküldted a lovad.
+385	[Rendszer] Elõbb hívd a lovad.
+386	[Rendszer] Neked nincs lovad.
+387	[Rendszer] Nem használhatsz érzelmeket, miközben lovon ülsz.
+388	[Rendszer] Nem használhatod, miközben lovon ülsz.
+389	[Rendszer] Nem etetheted meg a lovad, miközben rajta ülsz.
+390	[Rendszer] A lovad nagyon kimerült.
+391	[Rendszer] Nincs lovad, kérdezd az istállósfiút.
+392	[Rendszer] A lovad megdöglött.
+393	[OX] Ha igaz az állítás sétálj az O-ra, ha hamis akkor az X-re
+394	[Fejlesztés] Használd a gyémántot foglalat hozzáadáshoz.
+395	[Rendszer] Elõbb kelj fel.
+396	[Fejlesztés] Sikeresen hozzáadtad a követ.
+397	[Fejlesztés] A kõ hozzáadása nem sikerült.
+398	[Rendszer] Kérem adja meg a teljes parancsot.
+399	[Rendszer] A parancs nem megfelelõ.
+400	[Rendszer] Itt nem csinálhatsz tábortüzet.
+401	[Rendszer] Öszpontosítson!.
+402	[Rendszer] 1 perc a szörnyek támadásáig.
+403	[Rendszer] 5 perc a szörnyek támadásáig.
+404	[Rendszer] A szörnyek vezetõje megjelent.
+405	[Rendszer] A szörnyek visszavonultak.
+406	[Rendszer] Egyes szörnyek visszavonultak.
+407	[Rendszer] A szörnyek megkezdék a támadást.
+408	Szörny elleni erõ + %d%%
+409	[Rendszer] A lelkem ég, de a testem nyugodt.
+410	[Rendszer] Sikeres tréning!
+411	Védelmi esély sámántámadás ellen %d%%
+412	Sámánok elleni erõ + %d%%
+413	[Fejlesztés] Csak 20 -as szint alatti fegyvereken használható.
+414	Védelmi esély harcos támadás ellen %d%%
+415	Harcosok elleni erõ + %d%%
+416	[OX] Kérdés:
+417	[Rendszer] Nem csinálhatsz tábortüzet a víz alatt.
+418	%d%% esély a testi támadás kivédésére.
+419	[Rendszer] %d%%-al nõ a teljesítmény ha ezt használod.
+420	[Rendszer] Nem sikerült elkészíteni az italt.
+421	[Rendszer] Az italok száma nincs korlátozva.
+422	[Rendszer] Nincs elegendõ összetevõ az ital elkészítéséhez.
+423	[Rendszer] %d italt használhatsz egyszerre .
+424	[Rendszer] Úgy érzem felfrissültem.
+425	[Horgászat] Elõször akassz egy csalit a horogra.
+426	[Rendszer] Nem vagy elég ügyes a használatához.
+427	Ezotéria elleni erõ+ %d%%
+428	Szél ellenállás %d%%
+429	Védelem + %d
+430	Védekezés + %d%%
+431	Harang védelem %d%%
+432	[Horgászat] A halban egy kagyló van.
+433	[Horgászat] A halban egy féreg van.
+434	[Rendszer] Nem dobhatod el ezt a tárgyat.
+435	[Fejlesztés] Nincs cserélhetõ bónusz.
+436	[Fejlesztés] Nem tudod fejleszteni miközben át vagy változva.
+437	[Rendszer] Nem lovagolhatsz amíg át vagy változva
+438	[Rendszer] Nem olvashatsz könyvet amíg át vagy változva.
+439	[Rendszer] Nincs szabad hely.
+440	Legyezõ védekezés %d%%
+441	[Rendszer] Nem nyithatsz boltot ilyen névvel.
+442	[Rendszer] Nincs elég üres üveged.
+443	[Fejlesztés] A metin köveket nem lehet megsemmisíteni.
+444	[Fejlesztés] Nincs eltávolítható kõ.
+445	[Rendszer] Már megkaptátok a jutalmatokat.
+446	[Rendszer] Túllépted a limitet.
+447	Használat: transfer <karakter neve>
+448	Használat: warpto <karakter neve>
+449	[Rendszer] Ezt nem használhatod
+450	[Rendszer] Nem használhatsz Visszaállító Tekercset a Birodalmi Csatán.
+451	[Threeway] A  %s birodalom vereséget szenvedett a birodalmi csatában.
+452	[Arena] A harcosok elkülönítve, a párbaj véget ért.
+453	[Arena] A harcosoddal probléma lépett fel, a párbaj véget ért.
+454	[Rendszer] A játékosnak nincs elég helye vagy Aranya!
+455	[Rendszer] A játékosnak nincs helye!
+456	[Rendszer] A játékosnál több mint 1 billiárd Arany van!
+457	[Rendszer] A játékos a %d CH-n tartózkodik. Te jelenleg a %d Ch-n vagy.
+458	[Rendszer] A játékos elutasította  a kereskedést.
+459	[Rendszer] A másik személy épp üzletel, ezért nem tudsz vele kereskedni.
+460	[Rendszer] A személy jelenleg kereskedik.
+461	[Rendszer] A játékos jelenleg harcol.
+462	[Rendszer] A játékos elutasítja hogy hozzáadd a barátlisádhoz.
+463	[Rendszer] A játékos nem online.
+464	[Rendszer] Nem teleportálhatsz a játékoshoz.
+465	[Rendszer] A játékos nincs a csoportban.
+466	[Rendszer] A doboz felrobbant. Lecsökkent az Életerõd
+467	[Rendszer] Ebben a dobozban %s van %d darab.
+468	Egy %s van a dobozban.
+469	[Rendszer] Ha belélegzed a zöld füstöt a dobozból, a méreg szétterjed a testedben!
+470	[Rendszer] Ha belélegzed a vörös füstöt a dobozból, csökken a sebességed!
+471	[Rendszer] Egy szörny ugrott elõ a dobozból
+472	[Rendszer] Titokzatos fény árad ki a dobozból. Tapasztalati pontot kaptál.
+473	[Rendszer] Túl messze állsz a vásárláshoz.
+474	[Rendszer] Túl messze állsz az eladáshoz.
+475	[Rendszer] Ez így sokkal bonyolultabb, mint gondoltam.
+476	HP regenerálódás +%d
+477	Kritikus szerver hiba. A szerver automatikusan újraindul.
+478	[Rendszer] A rang pontjaid megemelkedtek %d ponttal.
+479	[Rendszer] Nem lehet tovább növelni a rangpontjaidat.
+480	[GM] Nézd meg a szent föld térképét %d Bejárat: %d %d %d
+481	[Fejlesztés] Sikeresen hozzáadtad a bónuszokat.
+482	[Rendszer] Ezt a tárgyat csak a másik nem használhatja.
+483	[Monarch] Ez a képesség csak a várban használható.
+484	[Monarch] Ördögök a szent földön: Ti
+485	[Rendszer] Nem indíthatsz itt újra. Menj vissza a városba.
+486	[Rendszer] Az eladás megadóztatva %d %-al .
+487	[Rendszer] %d másodperc a leállásig.
+488	[Rendszer] Nincs nálad elég Arany a tárgy használatához
+489	[Rendszer] Nincs elég hely a leltáradban.
+490	[Rendszer] Túl sok tárgy van nálad.
+491	[Fejlesztés] A foglalatot nem sikerült hozzáadni.
+492	[Fejlesztés] Foglalat sikeresen hozzáadva.
+493	[Monarch] Idézési kérelmet küldtek.
+494	[Monarch] A szörny nem megidézhetõ, ellenõrizd az ID-t.
+495	[Fejlesztés] Az új bónusz sikeresen hozzáadva.
+496	[Fejlesztés] A bónusz hozzáadása nem sikerült.
+497	[Fejlesztés] A bónuszok lecserélve.
+498	[Fejlesztés] Nem módosíthatod a bónuszokat ebben a tárgyban.
+499	[Fejlesztés] Csak Lv40 alatti tárgyakhoz használhatod!
+500	Védelmi esély sura támadás ellen %d%%
+501	Surák elleni erõ+ %d%%
+502	[Rendszer] Tréning nem sikerült. Kérlek próbáld újra késõbb.
+503	[Fejlesztés] Nem fejlesztheted ezt a képességet.
+504	Készségkár %d%%
+505	Készségkárokkal szembeni ellenállás %d%%
+506	[Rendszer] Képesség visszaállítás sikeres.
+507	[Rendszer] Képesség visszaállítás sikertelen.
+508	Ájúlási esély+%d
+509	Lelassulási esély+%d
+510	[Rendszer] Nem sikerült a küldetés.
+511	[Rendszer] A lovad harci képességeit a lovagló könyvvel aktiválhatod.
+512	Nemhalottak elleni erõ+ %d%%
+513	Shinsoo birodalom
+514	[Rendszer] Nem tudsz lovagolni, miközben a földön fekszel.
+515	[Rendszer] Nem csinálhatod ezt, amig a földön fekszel.
+516	[Rendszer] Olvasd ugyanebben a sorrendbe újra és újra.
+517	[Rendszer] Semmit sem kaptál.
+518	[Rendszer] Nem használhatod a tekercset %d miután kereskedtél.
+519	[Rendszer] A tárgyak dropesélye %d%% -ra emelkedett.
+520	[Rendszer] Esély dupla mennyiségû tárgy eldobására: %. 1f
+521	[Rendszer] Tárgy átadás: %s-hoz, %s 
+522	[Rendszer] %s kapott
+523	[Rendszer] Tárgy átadás: %s -tól, %s 
+524	[Rendszer] Nem kereskedhetsz ezzel a tárggyal.
+525	[Rendszer] Túl alacsony szinten vagy, hogy használhasd ezt a tárgyat.
+526	[Rendszer] Túl magas szinten vagy, hogy használhasd ezt a tárgyat.
+527	[Rendszer] Még nem tudsz újraindulni a városban.Várj további %d másodpercet
+528	[Rendszer] Most nem használhatod.
+529	[Rendszer] Túl alacsony a szinted a Lovas kiképzéshez.
+530	[Rendszer] Túl alacsony a szinted a frizura viseléséhez.
+531	[Rendszer] Még nem lehet újraindítani. Kérjük várj további %d másodpercet.
+532	Ördög elleni erõ+ %d%%
+533	[Rendszer] Több mint 1 billiárd Arany van nálad, ezért nem kereskedhetsz.
+534	Kétkezes védelem %d%%
+535	[Rendszer] Egyre jobban érted a technikát.
+536	[Rendszer] A horgászbot a halásznál fejleszthetõ.
+537	[Rendszer] Lóképességek emelhetek.
+538	[Rendszer] Majdnem kész! Már nincs sok hátra.
+539	[Rendszer] A kombó támadás elérte a maximumot.
+540	[Rendszer] Úgy tûnik ez nem az a kulcs.
+541	[Rendszer] Ez lesz a jó kulcs.
+542	[Rendszer] Ezzel a kulcsal nem tudod kinyitni.
+543	[Rendszer] Ez le van zárva. Találd meg a kulcsot.
+544	[Rendszer] Keményen kell tanulnod hogy megértsd ezt a technikát.
+545	[Rendszer] Nem javíthatod fel ezt a tárgyat.
+546	[Rendszer] Nem lovagolhatsz amíg esküvõiruhát vagy szmokingot viselsz.
+547	[Rendszer] %d szintet kell elérni, mielõtt hívni tudsz.
+548	[Rendszer] A SárkányIsten áldása miatt nem vesztettél tapasztalatot.
+549	[Rendszer] A SárkányIsten áldása miatt nem dobtál el tárgyat.
+550	[Rendszer] A beszélgetésed egy GM letiltotta.
+551	Ork elleni erõ+ %d%%
+552	[Rendszer] Teleportálj az utolsó pozicióhoz .
+553	[Rendszer] Felhasználva.
+554	[Rendszer] Ez a tárgy nem átadható, ezért nem rakhatod ki a boltba.
+555	[Rendszer] Nem fejlesztheted tovább ezzel a tárggyal a felszerelésed.
+556	[Rendszer] Nem fejlesztheted tovább ezzel a tárggyal a felszerelésed.
+557	[Rendszer] Ez nem használható ebben a helyzetben.
+558	[Rendszer] Nem teheted ezt a követ fegyverbe.
+559	[Rendszer] Nem teheted ezt a követ páncélba.
+560	[Rendszer] Még nem fejlesztheted így a képességet.
+561	[Rendszer] Ez a készség nem elég magas ahhoz, hogy könyvekkel fejleszd.
+562	[Rendszer] Nem fejlesztheted azt a képességet könyvekkel.
+563	[Rendszer] Nem fejlesztheted tovább ezzel a tárggyal a felszerelésed.
+564	[Fejlesztés] Nem adhatsz foglalatot ehhez a tárgyhoz.
+565	[Fejlesztés] A tárgy elérte a maximális szintet.
+566	[Fejlesztés] A tárgy nem fejleszthetõ tovább. [USE_TUNING]
+567	[Fejlesztés] Ezt a tárgyat nem tudod elhelyezni.
+568	[Fejlesztés] Nem adhatsz hozzá további drágaköveket.
+569	[Fejlesztés] Ehhez a tárgyhoz nem adhatsz foglalatot.
+570	[Fejlesztés] Nem adhatsz hozzá több foglalatot.
+571	[Rendszer] Ezt a képességet nem fejlesztheted tovább könyvekkel.
+572	[Rendszer] Nem könnyû megérteni ezt a könyvet.
+573	[Rendszer] Ez a könyv nem segít.
+574	[Rendszer] El kell érned egy nagyobb szintet hogy megértsd ezt a könyvet.
+575	[Rendszer] Nem használhatod a visszaszállító tekercset, mert a távolság túl kicsi.
+576	Mozgási sebesség+ %d
+577	[Rendszer] Nem használhatsz visszaállító tekercset most.
+578	[Rendszer] Nem tudok így tanulni.
+579	[Horgászat] Kicserélted a csalit. Jelenlegi csali: %s.
+580	[Rendszer] Te már át vagy változva.
+581	[Céh] Hadat üzentél a céhnek.
+582	[Rendszer] Te már folyékonyan beszéled ezt a nyelvet.
+583	[Rendszer] A háború már véget ért.
+584	[Fejlesztés] A fejlesztési ablak már nyitva van.
+585	[Rendszer] Nem fogadhatsz el csoport meghívást, mert már tagja vagy egy másik csoportnak.
+586	[Rendszer] Ez a hatás már mûködik.
+587	[Rendszer] Már szavaztál.
+588	[Halászat] A kifogott hal hossza %.2fcm.
+589	[Rendszer] A detektor eltûnt egy titokzatos fényben.
+590	[Rendszer] A detektor eltûnt.
+591	[Rendszer] Most már értem!
+592	[Rendszer] Még 1 és a tréninget befejezted!
+593	Szörny elleni erõ +%d%%
+594	[Monarch] Nem találom a játékost.
+595	Védelmi esély ninja támadás ellen %d%%
+596	Ninják elleni erõ+ %d%%
+597	[Monarch] Ezt csak a saját birodalmadban használhatod.
+598	[Rendszer] Állandó.
+599	[Rendszer] Ha úgy döntessz, bármikor kiléphetsz
+600	[Monarch] Nem hívhatod magadat.
+601	[Rendszer] Nincs elég nyersanyag az építkezéshez.
+602	[Rendszer] Ez a gömb hibás. Kérlek jelezd egy játékmester felé.
+603	[Rendszer] A map 1 edre leszel teleportálva.
+604	[Rendszer] Hamarosan mindenki a városba lesz teleportálva.
+605	[Rendszer] Nem adhatsz el felszerelt tárgyakat.
+606	[Rendszer] A felszerelés sikerült.
+607	[Rendszer] A felszerelés nem sikerült.
+608	[Rendszer] Nincs elég összetevõ (%s).
+609	Esély a negatív hatás gyógyítására: %d%%
+610	Villám ellenállás %d%%
+611	[Céh] A céh háború nem indítható, mert a szerver nem elérhetõ.
+612	[Rendszer] Cselekvés visszavonva. Beléptél a harcba.
+613	[OX] A helyes válasz:
+614	[OX] Helyes!
+615	Varázs sebesség +%d
+616	Nincs elég MP.
+617	[Fejlesztés] Nincs elég összetevõ.
+618	[Teen] Túl régóta be vagy jelentkezve.
+619	[Rendszer] Az épület nem létezik.
+620	[Rendszer] Ilyen karakter nem létezik.
+621	[Rendszer] Túl messze vagy.
+622	[Rendszer] Elûzted az átkot
+623	[Rendszer] Már majdnem végeztél!
+624	[Rendszer] Nem etetheted a döglött lovat.
+625	[Rendszer] Nem etetheted az élõ lovat virágokkal.
+626	[Rendszer] Az oltár a gonoszok központja.
+627	[Rendszer] %s 30 perced van elpusztítani a hatalom tüzeit.
+628	Inteligencia +%d
+629	[Rendszer] Nincs elég INT a használatához.
+630	Esély a testi támadás visszaverésére: %d%%
+631	Jinno birodalom
+632	[Rendszer] Még nem kereskedhetsz újra. Várj %d másodpercet.
+633	[Rendszer] %d másodpercig a kereskedés után nem használhatod.
+634	[Rendszer] Nem mehetsz most sehova.
+635	[Bányászat] A bányászat sikeres volt.
+636	[Bányászat] A bányászat nem sikerült.
+637	[Bányászat] Bányászat kész.
+638	[Rendszer] A Chat blokkolva. Legközelebb moderáld magad kérlek
+639	[Rendszer] A chat blokk feloldva. Legközelebb moderáld magad kérlek.
+640	[Rendszer] A könyv olvasása sikeres. Befejezted a tréninget.
+641	[Rendszer] Csak néhány oldalt maradt.
+642	Chunjo birodalom
+643	[Rendszer] Foglalat tisztítás sikertelen.
+644	Max kitartás +%d
+645	[Rendszer] Nincs elég VIT a használatához.
+646	[OX] Öszzesen: %d 
+647	Max HP +%d
+648	Max HP +%d%%
+649	Max MP +%d
+650	Max MP +%d%%
+651	[Fejlesztés] Az áldás tekercs és a varázsfém nem használható együtt
+652	[Rendszer] A kijelentkezés megszakítva.
+653	[Rendszer] Karatert cserélsz. Kérlek várj.
+654	Cooldown idõ -%d
+655	[Monarch] Újra felhasználhatod %d perc múlva
+656	[Rendszer] Kérése töltõdik. Kérjük, legyen türelemmel.
+657	[Rendszer] Ez nem mûködik. Francba!
+658	Veszteségek %d%%-a a HP-bõl eltûnik.
+659	Veszteségek %d%%-a a MP-bõl eltûnik.
+660	[Monarch] Nem teleportálhatsz ismeretlen játékoshoz.
+661	[Rendszer] Nem teheted ezt amíg lovagolsz.
+662	[Rendszer] A szerver tesztidõ lejárt
+663	[Rendszer] Nem vagy csoportban.
+664	A csoportotok együttmûködik, ezért további tapasztalatpontot kaptok.
+665	[Csoport] Nem intézhetsz kérést, mert a csoportvezetõ nem online
+666	[Rendszer] Az eladás megadóztatva %d %% -al.
+667	[Rendszer] Te már mestere vagy ennek a készségnek. Nem fejlesztheted tovább.
+668	Átlagos károk %d%%
+669	Resistance against Hits %d%%
+670	A kapcsolat %d és %d között létrejött.
+671	Kard védelem %d%%
+672	[Rendszer] Ez a játékos a  %d CHn tartózkodik . (Aktuális CH %d)
+673	[Monarch] A jelenlegi kincstári összeg %s - %d.
+674	[OX] A résztvevõk száma: %d 
+675	[Threeway] Aktuális állás: Shinsoo: %d Chunjo: %d Jinno
+676	[Rendszer] Ezt nem használhatod ezen a helyen.
+677	[Rendszer] Az alábbi céhek álnak háborúban egymással: 
+678	[Rendszer] Nem festheted vagy fehérítheted az aktuális hajad.
+679	Tûz ellenállás %d%%
+680	Esély a nyilak elkerülésére %d%%
+681	Nyíl ellenállás %d%%
+682	[Rendszer] Használj koncentrált olvasást..
+683	a Tárgy dobás aránya
+684	az Arany dobás aránya
+685	Minden Királyság
+686	az Exp aránya
+687	[Halászat] Itt nem halászhatsz
+688	[Fejlesztés] Ezzel a hozzáadóval nem helyezhetõ el több bónusz ebbe a tárgyba.
+689	[Rendszer] A játékos elutasította a barát kérelmet!
+690	[Csoport] %s dobtál. %d kapott. (%d-%d)
+691	[Csoport] Dobtál a kockával és %d kapott. (%d-%d)
+692	[Rendszer] Épp lovagolsz. Elõbb szálj le a hátasról.
+693	Arany bomba
+694	[Rendszer] Az ércek %s elüntek..
+695	Ürítsd ki az öv leltáradat!
+696	[Rendszer] Csatorna váltás %d másodperc múlva.
+697	[Rendszer] Ez a csatorna nem elérhetõ! 
+698	[Rendszer] Jelenleg is ezen a csatornán tartózkodsz: %d.
+699	[Rendszer] A jelenlegi helyzeted egy kerecsatornán van, ezért a váltás nem lehetséges!
+700	[Rendszer] Kazamatákban a csatornaváltás nem lehetséges.
+701	[Rendszer] Nem található a közelben Titokzatos kincsesláda
+702	[Rendszer] Nem olvashatsz könyvet, amíg a farm mód be van kapcsolva!
+703	[Rendszer] Nem használhatsz fel exp-t amíg a farm mód be van kapcsolva!
+704	[Rendszer] %s megsemmisítve.
+705	[Rendszer] A pánt ablak már nyitva van!
+706	[Rendszer] Elõtte be kell zárnod az abszorpciós ablakot!
+707	[Rendszer] Elõtte be kell zárnod a kombinációs ablakot!.
+708	[Rendszer] Nem adhatsz hozzá zárolt tárgyakat!
+709	[Rendszer] Nem adhatsz hozzá lélekhez kötött tárgyakat!
+710	[Rendszer] Csak egyforma értékkel rendelkezõ pántokat kombinálhatsz!
+711	[Rendszer] Ez a pánt már elérte a legnagyobb abszorpciós értéket!
+712	[Rendszer] Csak vértek és fegyverek bónuszait abszorbálhatod!
+713	[Rendszer] Nincs nálad elegendõ Arany!
+714	[Rendszer] Új abszorbciós érték: %d%
+715	Sikeres.
+716	Sikertelen.
+717	[Offline Bolt] Boltod bezárásra került. Megmaradt tárgyaidat és a boltoddal keresett Aranyat megtalálod bal oldalt az ajándékoknál.
+718	[Offline Bolt] Nem készíthetsz több boltot!
+719	[Offline Bolt] Nincs elegendõ hely a leltáradban.
+720	[Offline Bolt] Egy ismeretlen hiba történt.
+721	[Offline Bolt] Arany kiváltás sikeres.
+722	[Offline Bolt] Arany kiváltás sikeres.
+723	[Offline Bolt] Kérlek várj %d másodpercet, mielõtt boltot nyitsz!
+724	[Offline Bolt] Jelenleg az ajánék dobozod üres!
+725	[Offline Bolt] Tárgyat sikeresen hozzá adtuk leltáradhoz.
+726	[Offline Bolt] Az összes tárgyat sikeresen hozzá adtuk leltáradhoz.
+727	Bolt zárás
+728	#PLAYER_NAME# Bolt
+729	[Offline Bolt] Team tagok nem készíthetnek magánboltot!
+730	[Offline Bolt] OX pályán a boltnyitás nem lehetséges!
+731	[Offline Bolt] Ezen a pályán nem nyithatsz több boltot!
+732	[Offline Bolt] Ezen a helyen a boltnyitás nem lehetséges!
+733	[Offline Bolt] Ezen a helyen a bolt szerkesztése nem lehetséges!
+734	[Offline Bolt] A boltnyitáshoz %lld Aranyra van szükséged!
+735	[Offline Bolt] Az offline shop rendszer jelenleg nem elérhetõ!
+736	[Offline Bolt] A boltban lévõ tárgyak frissítése sikeresen megtörtént.
+737	[Offline Bolt] Eltávolított tárgy
+738	[Rendszer] Nem használhatsz hátast, amíg át vagy változva!
+739	[Rendszer] Ha nincs felszerelve, nem tudod le szerelni!
+740	[Rendszer] Nem szerelhetsz fel két egyforma típusú tárgyat!
+741	[Rendszer] Nem veheted fel a kosztüm fegyvert, ha nincs rajtad fegyver!
+742	[Rendszer] Nem veheted fel ezt a kosztüm fegyvert, mert nem egyezik meg a jelenleg felszerelt fegyver típusával!
+743	[Rendszer] Nem veheted fel ezt a fegyvert, mert nem egyezik a jelenleg felszerelt kosztüm fegyver típusával!
+744	[Rendszer] Elõbb vedd le a kosztüm fegyvered!
+745	[OXEVENT] Nem használhatsz skilleket, amíg az OX rendezvényen tartózkodsz!
+746	[Rendszer] Csak 3 másodpercenként cserélhetsz vértet!
+747	[Rendszer] Valami hiba történt, kérlek jelentsd egy adminisztrátornak!
+748	[Rendszer] Nem található %s a leltáradban!
+749	[Rendszer] Egyszer már hozzáadtad ezt az elixírt a javításhoz!
+750	[Rendszer] Várj néhány másodpercet!
+751	[Rendszer] Nem nyithatsz magánboltot, amíg a karaktered zárolva van! 
+752	[Rendszer] Nem használhatsz tárgyakat, amíg a karaktered zárolva van! 
+753	[Rendszer] Nem dobhatsz el tárgyakat, amíg a karaktered zárolva van! 
+754	[Rendszer] Nem mozdíthatsz el tárgyakat, amíg a karaktered zárolva van! 
+755	[Rendszer] Nem vehetsz fel tárgyakat, amíg a karaktered zárolva van! 
+756	[Rendszer] Nem szerelhetsz le tárgyakat, amíg a karaktered zárolva van! 
+757	[Rendszer] Nem szerelhetsz fel tárgyakat, amíg a karaktered zárolva van! 
+758	[Rendszer] Nem kattinthatsz NPC-re, amíg a karaktered zárolva van! 
+759	[Rendszer] Nem használhatsz skilleket, amíg a karaktered zárolva van! 
+760	[Rendszer] Nem fejleszthetsz tárgyakat, amíg a karaktered zárolva van! 
+761	[Rendszer] Nem pántozhatsz, amíg a karaktered zárolva van! 
+762	[Rendszer] Nem válthatsz CH-t, amíg a karaktered zárolva van! 
+763	[Rendszer] Nem nyithatsz magánboltot, amíg a karaktered zárolva van! 
+764	[Rendszer] Nem nézegetheted a boltokat, amíg a karaktered zárolva van! 
+765	[Rendszer] Nem küldhetsz privát üzenetet, amíg a karaktered zárolva van! 
+766	[Rendszer] Nem használhatod a chat-et, amíg a karaktered zárolva van! 
+767	[Rendszer] Jelenleg már van egy biztonsági jelszavad! 
+768	[Rendszer] A biztonsági jelszó minimum 4, maximum 6 akrakterbõl álló számkód lehet! 
+769	[Rendszer] A biztonsági jelszó csak számokat tartalmazhat! 
+770	[Rendszer] Biztonsági jelszavad sikeresen létrehoztad! 
+771	[Rendszer] Jelszó elfogadva! Kellemes játékot kívánunk! 
+772	[Rendszer] Biztonsági kulcsod sikeresen megváltoztattad! 
+773	[Rendszer] Az új jelszavak egyike nem egyezik! 
+774	[Rendszer] A régi jelszó nem egyezik! 
+775	[Rendszer] Nem kereskedhetsz, amíg a karaktered zárolva van! 
+776	[Rendszer] Nem kereskedhetsz, amíg a másik fél karaktere zárolva van! 
+777	[Rendszer] Nem vehetsz ki Aranyat, amíg a karaktered zárolva van! 
+778	[Rendszer] Nem adhatsz le tárgyat, amíg a karaktered zárolva van! 
+779	[Rendszer] Nem horgászhatsz, amíg a karaktered zárolva van! 
+780	[Rendszer] Nem változtathatod meg a státusz pontjaid, amíg a karaktered zárolva van! 
+781	[Rendszer] Nem párbajozhatsz, amíg a karaktered zárolva van! 
+782	[Rendszer] Nem módosíthatod a skilljeidet, amíg a karaktered zárolva van! 
+783	[Rendszer] Nem vehetsz ki tárgyakat, amíg a karaktered zárolva van! 
+784	[Rendszer] Nem teleportálhatsz barátodhoz, amíg a karaktered zárolva van! 
+785	[Rendszer] Nem teleportálhatsz a városba, amíg a karaktered zárolva van! 
+786	[Rendszer] Nem indíthatsz céh háborút, amíg a karaktered zárolva van! 
+787	[Rendszer] Nem fogadhatod el a csoport kérelmet, amíg a karaktered zárolva van! 
+788	[Rendszer] Nem csinálhatsz csoportot, amíg a karaktered zárolva van! 
+789	[Rendszer] Nem használhatod a Kisállat rendszert, amíg a karaktered zárolva van! 
+790	[Rendszer] Nem használhatod a kraft rendszert, amíg a karaktered zárolva van! 
+791	[Rendszer] Nem veheted ki a jutalmad, amíg a karaktered zárolva van!
+792	[Rendszer] Hibás jelszó! Próbáld újra! 
+793	[Rendszer] Jelenleg nem tudunk kiszabadítani. Vedd fel a kapcsolatot egy GM-el!
+794	[Rendszer] Jelenleg nem vagy beszorulva.
+795	[Rendszer] Ezen a helyen nem használhatsz hátast!
+796	[Rendszer] Nincs elég pénzed!
+797	[Rendszer] Nincs nálad kártya szett!
+798	[Rendszer] Nincs elég hely a kezedben!
+799	[Rendszer] Nincs több kártyád!
+800	[Rendszer] Nincs elég hely az asztalon!
+801	[Rendszer] Várj néhány másodpercet
+802	[Rendszer] A mûvelet végrehajtásához elõ kell hívnod háziállatod!
+803	[Rendszer] A dobozban már van egy házikedvenc.
+804	[Rendszer] Ismeretlen hiba történt jelentsd egy adminisztártornak!
+805	[Rendszer] Házikedvenced élettartama sikeresen feltöltve.
+806	[Rendszer] Helytelen név!
+807	[Rendszer] Szükséged van 100.000 Aranyra!
+808	[Rendszer] Házikedvenced ideje lejárt, ezért nem helyezheted a dobozba!
+809	[Rendszer] Házikedvenced élettartama felére növelve.
+810	[Rendszer] Házikedvenced jelenleg nem nevelhetõ!
+811	[Rendszer] Szükségess tárgyak a neveléshez: 
+812	[Rendszer] Házikedvenced jelenleg nem nevelhetõ!
+813	[Rendszer] Küldd el a házikedvenced!
+814	[Rendszer] Nincs elég hely a leltáradban!
+815	[Rendszer] A szinted nem lehet nagyobb mint a házikedvenced szintje!
+816	[Rendszer] %s jelenleg mélyen alszik.
+817	[Rendszer] Házikedvenced jelenleg mélyen alszik.
+818	[Rendszer] Házikedvenced elfáradt. További használathoz, töltsd fel az életerejét!
+819	[Rendszer] Házikedvenced nem akarja ezt megenni!
+820	[Rendszer] Házikedvenc etetése jelenleg nem elérhetõ. Kérjük vedd fel a kapcsolatot egy játékmesterrel!
+821	 perc
+822	 másodperc
+823	[Céh] %d Másodperc áll rendelkezésre a szobrok elpusztítására. Siessetek!
+824	[Céh] A harc %s ellen megkezdõdött.
+825	[Céh] A menedék megnyitotta kapuit. Az idõ limit %d óra.
+826	[Céh] Sikeresen legyõztétek Meley-t, a Sárkányok Királynõjét.
+827	[Céh] Szükséges idõ: %s.
+828	[Céh] A kazamata jelenleg nem elérhetõ, vedd fel a kapcsolatot egy csapattaggal.
+829	[Céh] %d rang pont visszatérítve.
+830	[Céh] Az idõlimit %s elleni harchoz lejárt.
+831	[Céh] A biztonságotok érdekében, ki lesztek teleportálva a menedékbõl %d másodperc múlva
+832	[Céh] Minden résztvevõ ki lesz teleportálva %d másodpercen belül.
+833	[Transzmutáció] Az ablak már nyitva van!
+834	[Transzmutáció] Nyisd meg az ablakot!
+835	[Transzmutáció] Felszerelt tárgyakat nem transzmutálhatsz!
+836	[Transzmutáció] Ez a tárgy nem transzmutálható!
+837	[Transzmutáció] Lélekhez kötött tárygakat nem lehet transzmutálni!
+838	[Transzmutáció] Zárolt tárgyakat nem lehet transzmutálni!
+839	[Transzmutáció] Ez a tárgy már rendelkezik transzmutációval!
+840	[Transzmutáció] Ezt a tárgyat nem lehet hozzáadni!
+841	[Transzmutáció] Add hozzá a transzmutálni kívánt tárgyat!
+842	[Transzmutáció] Nincs nálad elegendõ Arany!
+843	[Rendszer] Nem távolíthatod el a transzmutációt a tárgyból, mert az lélekhez van kötve!
+844	[Rendszer] Nem távolíthatod el a transzmutációt a tárgyból, mert az zárolva van!
+845	[Rendszer] Nem vetted fel az elõzõ nap a jutalmat, ezért a legelsõt kapod meg!
+846	[Rendszer] Még nem veheted fel a jutalmat!
+847	[Rendszer] Tapasztalati pontjaid megnõttek %d ponttal.
+848	[Rendszer] Elérted a maximáléis szintet, ezért nem használhatod ezt a tárgyat!
+849	[Rendszer] Nem használhatod, miközben lovagolsz!
+850	[Rendszer] Ezt a tárgyat csak kosztümökön használhatod.
+851	[Rendszer] Házikedvenced idõtartama sikeresen kibõvítve!
+852	[Rendszer] A tárgy idõtartama jelenleg nem bõvíthetõ.
+853	[Rendszer] Kosztüm idõtartam sikeresen kibõvítve!
+854	[Rendszer] Leltár rendezés nem hajtható végre. Zárj be minden más ablakot!
+855	[Rendszer] Leltárad sikeresen rendezésre került.
+856	[Rendszer] Következõ rendezés %d másodpec múlva lehetséges.
+857	[Switchbot] Nem távolíthatod el ezt a tárgyat, mert tele a leltárad!
+858	[Switchbot] Nem mozgathatod ezt a tárgyat amíg a forgatás aktív!
+859	[Switchbot] Ez a tárgy nem forgatható a switchbottal!
+860	[Switchbot] %s (slot: %d) elkészült.
+861	[Switchbot] Nincs nálad több 'Megbûvölõ Tárgy', ezért a forgatás nem folytatható.
+862	[Switchbot] Nincs nálad több arany, ezért a forgatás nem folytatható.
+863	[Rendszer] Ezen a pályán nem mentheted el a pozíciódat.
+864	[Rendszer] Ezen a csatornán nem mentheted el a pozíciódat.
+865	[Rendszer] Nem mentheted el a pozíciódat, amíg megfigyelõ módban vagy.
+866	[Rendszer] Próbáld újra 10 másodperc múlva.
+867	[Rendszer] Jelenleg nem tudsz ide teleportálni, mert az elmentett pozíció érvénytelen.
+868	[Rendszer] Eddig %d helyes válaszod van.
+869	[Rendszer] %s Gratulálunk a nyereséghez!
+870	[Rendszer] Az OX rendezvény jelenleg nem fut.
+871	[Rendszer] Az Ox rendezvény jelenleg regisztráció állapotban van!
+872	[Rendszer] Regisztráció az OX rendezvényre befejezõdött, mostantól kezdve nem lehet regisztrálni az eseményre.
+873	[Rendszer] Jelenleg is fut egy kérdés!
+874	[Rendszer] A beírt jelszó túl hosszú.
+875	[Rendszer] A beírt jelszó érvénytelen!
+876	[Rendszer] oxquiz.lua betöltése sikertelen, kérjük ellenõrizze a fájl elérhetõségét.
+877	[Rendszer] oxquiz.lua sikeresen betöltve
+878	[Rendszer] Rendezvény indítása.
+879	[Rendszer] Az OX rendezvény hamarosan megrendezésre kerül.
+880	[Rendszer] Menj és beszélj Uriel-el, a regisztrációhoz!
+881	[Rendszer] A regisztráció az OX rendezvényre befejezõdött.
+882	[Rendszer] Az OX rendezvény befejezõdött. Mindenki a városba lesz teleportálva 20 másodpercen belül.
+883	[Rendszer] Helytelen válasz!
+884	[Rendszer] Helyes válasz!
+885	[Rendszer] Probléma a tárgy számával!
+886	[Rendszer] Az OX rendezvény nyertesei a következõ jutalmat kapták meg:
+887	[Rendszer] Ez a tárgy nem létezik!
+888	[Rendszer] Az esemény közben egy váratlan hiba lépett fel, ezért befejezzük és indítunk egy újat. Elnézést a kellemetlenségekért.
+889	[Rendszer] A kliensed elavult, ezért lecsatlakoztatunk. Kérjük frissítsd a játékot!
+890	[Rendszer] Ezt a funkciót jelenleg nem használhatod! Zárj be minden ablakot és várj 10 másodpercet!
+891	[Rendszer] %s sikeresen %d%%-ra fejlesztette a következõt: [%s]
+892	[Rendszer] A %s klán elutasított egy háborút a %s klán ellen
+893	[Rendszer] Sikeresen kiválasztottad a képességeidet.
+894	[Rendszer] Gratulálunk a szintlépéshez! Mostantól használhatod a Sárkánykõ alkímiát!
+895	[Gaya] You do not have enough Gaya.
+896	[Gaya] Egy hiba történt. Zárj be minden ablakot, gyõzõdj meg róla, hogy jó szellemkövet választottál, majd próbáld újra!
+897	[Gaya] Ehhez a mûvelethez szükséged van a következõre: %ddb %s.
+898	[Gaya] Nincs nálad elég arany.
+899	[Gaya] Gaya mennyisége: %d.
+900	[Gaya] Gaya készítés sikeres :cheer:
+901	[Gaya] Gaya készítés sikertelen :cry:
+902	[Rendszer] Sikeresen megváltoztattad a képességed színét.

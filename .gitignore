@@ -1,0 +1,16 @@
+#IDE
+.vs
+.vscode
+
+*.bsc
+*.exe
+*.ilk
+*.map
+*.pdb
+*.obj
+*.idb
+*.aps
+*.ipdb
+*.tlog
+*.log
+x64

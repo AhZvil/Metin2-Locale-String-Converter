@@ -1,0 +1,2705 @@
+" EXPIRATION_DATE_(CORE)";
+"(Lejárati dáutm: %d y- %d m - %d d)";
+
+"MAX_STAMINA_%d";
+"Max. Kitartás + %d";
+
+"NEED_BOOKS_TO_FINISH_TRAINING_%d";
+"Még %d könyvet kell olvasnod a tréning befejezéséhez.";
+
+"%d_GOLD_HAS_BEEN_DONATED";
+"%d Arany adományozva";
+
+"%d_GOLD_RECEIVED";
+"%d Arany megkapva";
+
+"%d_LEVEL_NEED_TO_USE_HAR_COLOR";
+"Ezt a hajszint csak %d szinttõl lehet használni.";
+
+"CHAT_BLOCK_FOR_HOUR_MIN_SEC";
+"Chat elérésed blokkolva %d órára %d percre és %d másodpercre. Legközelebb légyszíves moderáld magad!";
+
+"CHAT_BLOCK_FOR_HOUR_MIN";
+"Chat elérésed blokkolva %d órára %d percre. Legközelebb légyszíves moderáld magad!";
+
+"CHAT_BLOCK_FOR_HOUR_SEC";
+"Chat elérésed blokkolva %d órára %d másodpercre. Legközelebb légyszíves moderáld magad!";
+
+"CHAT_BLOCK_FOR_MIN_SEC";
+"Chat elérésed blokkolva %d percre és %d másodpercre. Legközelebb légyszíves moderáld magad!";
+
+"CHAT_BLOCK_FOR_SEC";
+"Chat elérésed blokkolva %d másodpercre. Legközelebb légyszíves moderáld magad!";
+
+"CATCHED_%d_FROM_%d";
+"Megfogva %d a %d közül.";
+
+"YOU_CAN_USE_BLESSING_WITHIN_SECONDS";
+"%d másodpercen belül újra használhatod az áldást.";
+
+"AFFECT_EXPIRES_AT_SECONDS";
+"A hatás %d másodpercen belül lejár. ";
+
+"YOU_WILL_BE_TELEPORTED_WITHIN_SECONDS";
+"%d percen belül teleportálva leszel.";
+
+"PUNCTURE_CHANCE";
+"%d%% esély az átható találatra";
+
+"EXP_GAINING_CHANCE";
+"%d%% esély tapasztalat szerzésére.";
+
+"DOUBLE_GOLD_CHANCE";
+"%d%% esély a dupla arany dobásra";
+
+"HP_RESTORE_CHANCE";
+"%d%% esély HP visszaállításra.";
+
+"DOUBLE_ITEM_DROP_CHANCE";
+"%d%% esély dupla mennyiségû tárgy eldobásra.";
+
+"MP_RESTORE_CHANCE";
+"%d%% esély MP visszaállításra.";
+
+"CRITICAL_CHANCE";
+"%d%% esély a kritikus találatra";
+
+"MP_STEAL_CHANCE";
+"%d%% esély MP rablásra.";
+
+"MP_LOSS_DISAPPEAR";
+"Veszteségek %d%% -a az MPbõl eltûnik.";
+
+"MINUTE";
+"%d perc";
+
+"PLAY_TIME_ADDED_TO_YOR_ACCOUNT";
+"%d Játékidõ hozzáadva a számládhoz. (Számlaszám: %d)";
+
+"HOUR";
+"%d óra";
+
+"EXP_POINT_RECEIVED";
+"%d tapasztalati pont kapott.";
+
+"SECONDS_TO_END";
+"%d másodperc a végéig.";
+
+"SHUTDOWN_IN_SECONDS";
+"A szerver leáll %d másodperc múlva.";
+
+"FISHING_SIMULATION_STRING_INT";
+"%s: %d";
+
+"STRING_INT_INT_KILL_MOBKILL_BOSSKILL_COUNT";
+"%s killcount %d mobkillcount %d bosskillcount %d Number Holy Land %d";
+
+"STRING_SP_USAGE_INT";
+"%s SP Usage: %d ";
+
+"XGUILD_DECLARED_WAR_AGAINST_YGUILD";
+"A(z) %s céh hadat üzent a(z) %s céhnek!";
+
+"XGUILD_WON_AGAINST_YGUILD";
+"A(z) %s céh megnyerte a háborút a(z) %s céh ellen.";
+
+"XGUILD_GOT_THE_FLAG_FROM_YGUILD";
+"%s céh megszerezte a(z) %s céh zászlóját!";
+
+"WAR_STARTED_BETWEEN_XGUILD_AND_YGUILD";
+"A háború a(z) %s céh és a(z) %s céh között döntetlenül végzõdött.";
+
+"WAR_END_BETWEEN_XGUILD_AND_YGUILD";
+"A háború a(z) %s céh és a(z) %s céh között végetért.";
+
+"WAR_BETWEEN_X_AND_Y_GUILD_STARTING_SOON";
+"A háború a(z) %s céh és a(z) %s céh között perceken belül kezdõdik!";
+
+"WAR_HAS_BEEN_STARTED_BETWEEN_X_AND_Y_GUILD";
+"A háború a(z) %s céh és a(z) %s céh között elkezdõdött.";
+
+"GUILD_INCREASED_PERCENTAGE";
+"A(z) %s céh növekedett %d%% -ot!";
+
+"GUILD_NORMAL_AGAIN";
+"%s a céh %s megint normális.";
+
+"BUSINESS_WAS_SUCCESSFUL_WITH";
+"Az üzlet %s személlyel sikerült.";
+
+"DO_YOU_WANT_TO_JOIN_TO_THE_GROUP";
+"Szeretnél csatlakozni %s csoportjába?";
+
+"DECLINED_THE_REQUEST";
+"%s elutasította a kérést";
+
+"PLAYER_HAS_BEEN_CONNECTED_TO_XCHANNEL";
+"A játékos %s a %d CH-hoz kapcsolódik. (current channel:%d)";
+
+"PLAYER_IS_ON_THE_XCHANNEL";
+"A játékos %s a %d CH-n tartózkodik. (current channel:%d)";
+
+"PLAYER_IS_NOT_NEAR_YOU";
+"%s nincs a közeledben.";
+
+"PLAYER_IS_NOT_IN_GAME";
+"%s nincs játékban.";
+
+"PLAYER_CURRENTLY_ACTING";
+"%s a játékos jelenleg cselekszik.";
+
+"PLAYER_HAS_BEEN_INVITED";
+"%s meg lett hívva.";
+
+"DUEL_WINNER_XPLAYER";
+"A párbaj gyõztese: %s.";
+
+"PLAYER_WON";
+"%s gyõzött.";
+
+"PLAYER_NORMAL_DAMAGE_BLOCKED";
+"%s blokkolva! (%d%%)";
+
+"YOU_NEED_X_ITEM";
+"%s -re szükséged lesz.";
+
+"YOU_WILL_BE_TELEPORTED_TO";
+"Teleportálva leszel %s.";
+
+"REMAINING_TIME_UNTIL_REMOVING";
+"%s Fennmaradó idõ az eltávolitásig: %d ";
+
+"PLAYER_NORMAL_RANGE_DAMAGE_BLOCKED";
+"%s blokkolva! (%d%%)";
+
+"GUILD_IS_NOT_EXIST";
+"%s: Ez a céh nem létezik.";
+
+"ATTACKER_ATTACKING_POSTITION_X_Y";
+"%s[%d]s tamádási pozíció: %d %d";
+
+"DUEL_HAS_BEEN_STARTED_AGAINST_PLAYER";
+"A párbaj %s ellen megkezdõdött!";
+
+"PLAYER_INVITED_YOU_TO_A_DUEL";
+"%s párbajra hívott téged!";
+
+"ITEM_GRILL_DESTROYED";
+"%s megsemmisült.";
+
+"PRECIOUS_STONE_DECAYED_FROM_SOCKET";
+"A Drágakövek a %s tárgyból eltûntek.";
+
+"WAR_BEGINNING_SYMBOLIZED_BY_FIRES";
+"%s A háború kezdetét a hatalom tüzei jelképezik. ";
+
+"YOU_CHALLENGED_PLAYER_TO_DUEL";
+"Párbajra hívtad %s-t.";
+
+"EMPIRE_AGAINST_THE_FIRE_IS_IN_PROGRESS";
+"%s a hatalom tüzei ellen folyamatban van.";
+
+"IN_X_EMPIRE_X_PRIV_IS_X_PERCENTAGE";
+"%s -ban %s mostantól +%d%%";
+
+"IN_X_EMPIRE_X_PRIV_IS_NORMAL_AGAIN";
+"%s 's %s újra normális.";
+
+"KING_HAS_BEEN_CHANGED_THE_NEW_KING_IS_PLAYER";
+"%s Király fel lett mentve. Az új Király Lord %s.";
+
+"MONSTERS_MARCHING_TO_THE_CASTLE";
+"%s A szörnyek a vár felé menetelnek.";
+
+"EMPIRE_DESTROYED_ALL_POWER_OF_FIRE";
+"%s megsemmisítette az összes hatalom tüzét.";
+
+"EMPIRE_DESTROYED_A_POWER_OF_FIRE";
+"%s megsemmisített egy hatalom tüzét.";
+
+"EPMIRE_PROTECTED_THE_CASTLE";
+"%s megvédte a várat.";
+
+"EMPIRE_HAS_BEEN_DEFEATED";
+"%s vereséget szenvedett a háborúban, mivel nem védte meg a várat.";
+
+"PRISM_NEEDED";
+"%s szükséges lesz.";
+
+"GUILD_HAS_BEEN_CREATED_(TEMPORARY)";
+"(%s) Céh létrejött. [Ideiglenes]";
+
+"AFTER_YOU_DEFEATED_GUARDIANS_OF_THE_SAINT_LAND_YOU_WILL_BE_THE_KING_OF_THIS_LAND";
+"Miután legyõzõd a Szent Föld õreit, Te leszel a szent föld királya.[ENTER][ENTER]";
+
+"GUILD_LEADER_PLAYER";
+"[%sVezér] : %s ";
+
+"GUILD_LEADER_PLAYER_VALUE_INT";
+"[%sVezér] : %s értéke %d ";
+
+"[TEST_ONLY]_TAX_RAISED_INT_VALUE";
+"[TEST_ONLY]Adó megemelve: %d ";
+
+"ITEM_ONLY_USABLE_UNTIL_TARGET_ITEM_REACHES_LVL_3";
+"[Fejlesztés] A tárgyat csak plusz +3 as szintig használhatod fejlesztésre.";
+
+"[GUILD]_SKILL_USED_INT_INT_UINT";
+"[Céh] %d Készség felhasználva (%d, %d)  %u -ig";
+
+"[GUILD]_DECLINED_THE_WAR";
+"[Céh] %s elutasította a céh háborút.";
+
+"[GUILD]_UINT_EXP_USED";
+"[Céh] %u Tapasztalat felhasználva.";
+
+"[GUILD]_DRAGON_SPIRIT_RESTORED";
+"[Céh] %u Sárkány szellem visszaállítva.";
+
+"[GUILD]_GUILD_CREATED";
+"[Céh] [%s] céh létrejött.";
+
+"[GUILD]_NOT_ENOUGH_MONEY";
+"[Céh] Nincs nálad elég arany.";
+
+"[GUILD]_CANNOT_USE_EXP";
+"[Céh] A Tapasztalat használata nem sikerült.";
+
+"[GUILD]_YOU_CANT_MAKE_ANNOUNCEMENT";
+"[Céh] Te nem készíthetsz bejelentést.";
+
+"[GUILD]_PLAYER_NOT_FOUND";
+"[Céh] A keresett személy nem található.";
+
+"[GUILD]_GUILD_NOT_EXIST";
+"[Céh] Ez a céh nem létezik.";
+
+"[GUILD]_ONLY_GUILD_LEADER_CAN_WITHDRAW_GOLD";
+"[Céh] Csak a céh mester veheti ki az Aranyat.";
+
+"[GUILD]_CANNOT_CREATE_GUILD";
+"[Céh] Nem sikerült létrehozni a céhet.";
+
+"[GUILD]_YOU_CANT_CHANGE_GUILD_SKILL_LEVELS";
+"[Céh] Te nem változtathatod meg a céh készségek szintjét.";
+
+"[GUILD]_YOU_CAN_USE_SKILLS_ONLY_IN_WARS";
+"[Céh] A céh készségeket csak céh háborúban használhatod.";
+
+"[GUILD]_INVALID_GUILD_NAME";
+"[Céh] Helytelen céh név.";
+
+"[GUILD]_RACHED_MAXIMUM_LEVEL";
+"[Céh] A céh elérte a maximum szintet.";
+
+"[GUILD]_YOU_CANNOT_MAKE_GUILD";
+"[Céh] Nem alapíthatsz céhet.";
+
+"[GUILD]_YOU_CAN_INVITE_PLAYER_AFTER_THE_ALIGNMENT_IN_INT_DAYS";
+"[Céh] Csak az átrendezés után %d nappal hívhatsz meg újra játékosokat.";
+
+"[GUILD]_IS_NOT_BELONG_ANY_GUILD";
+"[Céh] Nem tartozik a céhhez";
+
+"[GUILD]_PLAYER_HAS_BEEN_REMOVED";
+"[Céh] %s Ki lett dobva a céhbõl.";
+
+"[GUILD]_YOU_REMOVED_A_PLAYER";
+"[Céh] Kidobtál egy céh tagot.";
+
+"[GUILD]_YOU_CANT_KICK_MEMBERS";
+"[Céh] Te nem dobhatsz ki céh tagot.";
+
+"[GUILD]_YOU_CANT_INVITE_PLAYERS";
+"[Céh] Te nem hívhatsz meg tagokat a céhbe.";
+
+"[GUILD]_ONLY_LEADER_CAN_USE_SKILLS";
+"[Céh] Csak a céh mester használhatja a cég készséget.";
+
+"[GUILD]_YOU_CANT_MAKE_YOURSELF_A_LEADER";
+"[Céh] Nem nevezheted ki magad céh mesterré.";
+
+"[GUILD]_YOU_CANT_CHANGE_THE_SCOPE_OF_THE_LEADER";
+"[Céh] A Céhvezér hatásköre nem módosítható.";
+
+"[GUILD]_LEADER_RANK_CANNOT_BE_MODIFIED";
+"[Céh] A Céh vezér rangja nem módosítható.";
+
+"[GUILD]_YOU_CANNOT_KICK_ANYONE_UNTIL_A_WAR_IS_ONGOING";
+"[Céh] Céh háború közben nem rúghatsz ki céh tagot";
+
+"[GUILD]_NO_ONE_CAN_TAKE_PART_ON_THE_WAR";
+"[Céh] Senki nem vehet részt a háborún.";
+
+"[GUILD]_AMOUNT_PLAYER_NEED_TO_TAKE_PART_IN_A_WAR";
+"[Céh] Legalább %d játékosra van szükség hogy résztvehess egy céh háborúban.";
+
+"[GUILD]_MINIMUM_LEVEL_IS_INT_VALUE";
+"[Céh] Legalább %d céh szintre van szükség, hogy részt vehess egy céh háborúban.";
+
+"[GUILD]_GUILD_WAR_ENDED";
+"[Céh] A céh háború végetért.";
+
+"[GUILD]_YOU_CANT_HUNT_UNTIL_A_WAR_IS_GOING_ON";
+"[Céh] Nincs vadászat céh háború alatt.";
+
+"[GUILD]_YOU_CANT_INVITE_ANOTHER_EMPIRES_PLAYER";
+"[Céh] Más birodalom tagjait nem hívhatod a céhbe.";
+
+"[GUILD]_YOU_CANT_CHOSE_MORE_THAN_ONE_LEADER";
+"[Céh] Nem választhatsz több vezetõt.";
+
+"[GUILD]_YOU_DONT_HAVE_ENOUGH_MONEY";
+"[Céh] Nincs elég Arany.";
+
+"[GUILD]_REACHED_POINTS";
+"[Céh] Elértük a %d Pontot.";
+
+"[GUILD]_PLACE_IS_TOO_LOW_TO_TAKE_PART_IN_WARS";
+"[Céh] Helyezés túl alacsony ahhoz, hogy részt vegyenek egy céh háborúban.";
+
+"[GUILD]_MESSAGE_CANNOT_BE_DELETED";
+"[Céh] Az üzenet nem törölhetõ.";
+
+"[GUILD]_PLAYER_IS_ON_X_CHANNEL_WHILE_YOU_ARE_IN_Y_CHANNEL";
+"[Céh] A játékos a következõ Ch-n tartózkodik: %d. (jelenlegi Ch: %d)";
+
+"[GUILD]_PLAYER_IS_NOT_ONLINE";
+"[Céh] A játékos nem online.";
+
+"[GUILD]_GUILD_IS_ON_WAR";
+"[Céh] A céh jelenleg háborúzik.";
+
+"[GUILD]_ENEMY_GUILD_NOT_ENOUGH_PLAYER";
+"[Céh] Az ellenséges céhben nincs elég tag a háborúhoz";
+
+"[GUILD]_ENEMY_GUILD_NOT_ENOUGH_LEVEL";
+"[Céh] Az ellenséges céhnek nincs meg a szükséges szintje a háborúhoz";
+
+"[GUILD]_LEADER_OFFLINE";
+"[Céh] A céh vezetõ nem online.";
+
+"[GUILD]_ENEMY_GUILD_NOT_ENOUGH_POINT";
+"[Céh] Az ellenséges céhnek nincs elég pontja hogy résztvegyen egy háborún.";
+
+"[GUILD]_NOT_ENOUGH_GOLD";
+"[Céh] A céhnek nincs elég Aranya hogy résztvegyen egy háborún.";
+
+"[GUILD]_PLAYER_ALREADY_ON_YOUR_GUILD";
+"[Céh] Ez a játékos már a céhed tagja.";
+
+"[GUILD]_PLAYER_DECLINED_YOUR_INVITATION";
+"[Céh] A játékos visszautasította a céh meghívást.";
+
+"[GUILD]_PLAYER_ALREADY_MEMBER_ANOTHER_GUILD";
+"[Céh] Ez a játékos már egy másik céh tagja.";
+
+"[GUILD]_PLAYER_CANNOT_JOIN_YET";
+"[Céh] A karakterek még nem tudnak csatlakozni.";
+
+"[GUILD]_DRAGON_SPIRIT_IS_NOT_CHARGED";
+"[Céh] A Sárkány szellem nincs feltöltve.";
+
+"[GUILD]_NOT_ENOUGH_DRAGON_SPIRIT";
+"[Céh] Nincs elég sárkányszellem. (%d, %d)";
+
+"[GUILD]_NAME_TAKEN";
+"[Céh] Ez a céhnév már foglalt.";
+
+"[GUILD]_ALREADY_IN_WAR";
+"[Céh] A céhed már részt vesz egy másik háborúban.";
+
+"[GUILD]_THAT_GUILD_ALREADY_IN_WAR";
+"[Céh] Ez a Céh már részt vesz egy másik háborúban.";
+
+"[GUILD]_THIS_GUILD_ALREADY_ON_ANOTHER_WAR";
+"[Céh] Ez a céh már egy másik háborúban vesz részt.";
+
+"[GUILD]_INVALID_AMOUNT";
+"[Céh] Érvénytelen összeg.";
+
+"[GUILD]_CAN_BE_USED_SOON";
+"[Céh] Néhány pillanat múlva újra használható.";
+
+"[GUILD]_YOU_CANT_CHOSE_ANOTHER_LEADER";
+"[Céh] Nem választhatsz más vezért.";
+
+"[GUILD]_INVALID_RANK_NAME";
+"[Céh] Helytelen rang név.";
+
+"[GUILD]_NOT_ENOUGH_GOLD_FOR_WAR";
+"[Céh] Nincs elég Arany egy céh háborúhoz.";
+
+"[GUILD]_GIVEN_EXP_IS_MORE_THAN_GUILD_NEED";
+"[Céh] A tapasztalat pont amelyel támogatnád több, mint amennyire a céhnek szüksége van.";
+
+"[GUILD]_YOU_CANT_CHANGE_YOUR_ROLE";
+"[Céh] Nem módosíthatod a rangod.";
+
+"[GUILD]_YOU_CANT_CHANGE_YOUR_ROLE_NAME";
+"[Céh] Nem módosíthatod a rang neved.";
+
+"[GUILD]_MEMBER_LIMIT_REACHED";
+"[Céh] A céh kapacitás elérte felsõ határát.";
+
+"[GUILD]_SKILLS_CANNOT_BE_USED_YET";
+"[Céh] Még nem használhatod a céh készségeket.";
+
+"[GUILD]_YOU_CANT_MAKE_GUILD_UNTIL";
+"[Céh] Nem alapíthatsz új céhet %d napig.";
+
+"[GUILD]_PLAYER_CAN_BE_INVITED_AFTER_INTVALUE_DAY";
+"[Céh] A játékost csak %d nap múlva hívhatod meg.";
+
+"[GUILD]_AFTER_GUILD_DELETE_YOU_CANT_MAKE_GUILD_UNTIL_DAY";
+"[Céh] A céh törlése után nem alapíthatsz új céhet %d napig.";
+
+"[GUILD]_IS_IN_WAR";
+"[Céh] A céh háborúban van.";
+
+"[MESSENGER]_PLAYER_DELETED_FROM_YOUR_FRIENDLIST";
+"[Messenger] %s-t törölted a barátlistádról. ";
+
+"[MESSENGER]_PLAYER_ADDED_TO_YOUR_LIST";
+"[Messenger] %s-t felvetted a barátlistádra.";
+
+"[MESSENGER]_GM_CANNOT_BE_ADDED_TO_YOUR_LIST";
+"[Messenger] Nem vehetsz fel GM-et a barátlistádra.";
+
+"[WAREHOUSE]_YOU_ARE_TOO_FAR";
+"[Raktáros] Túl messze vagy a raktárostól hogy megnyithasd a raktárad.";
+
+"[WAREHOUSE]_WRONG_PASSWORD";
+"[Raktáros] Rossz jelszót adtál meg.";
+
+"[WAREHOUSE]_PASSWORD_LIMITATION_MESSAGE";
+"[Raktáros] A jelszóban csak az angol abc betûi és számok szerepelhetnek.";
+
+"[WAREHOUSE]_CANNOT_BE_MOVE_RIGHT_NOW";
+"[Raktáros] A mozgás nem lehetséges.";
+
+"[WAREHOUSE]_THIS_ITEM_CANNOT_BE_STORED";
+"[Raktáros] Ez a tárgy nem tárolható.";
+
+"[WAREHOUSE]_PASSWORD_CHANGED";
+"[Raktáros] A raktár jelszó megváltoztatva.";
+
+"[WAREHOUSE]_ALREADY_OPEN";
+"[Raktáros] A raktár már nyitva van.";
+
+"[WAREHOUSE]_ALREADY_OPEN_AFTER_MINUTES";
+"[Raktáros] Csak 10 másodperc múlva nyithatod meg újra.";
+
+"[MISSION]_REWARD_ALREADY_GIVEN_YOU_LATE";
+"[Küldetés] A jutalmat már kiosztották, elkéstél.";
+
+"[PARTY]_PLAYER_DECLINED_YOUR_INVITATION";
+"[Csoport] %s elutasította a meghívásod a csoportba.";
+
+"[PARTY]_PLAYER_JOINED";
+"[Csoport] %s csatlakozott a csoportba.";
+
+"[PARTY]_PLAYER_DECLINED_YOUR_INVITATION2";
+"[Csoport] %s elutasította a meghívásod.";
+
+"[PARTY]_PLAYER_JOINED2";
+"[Csoport] %s csatlakozott a csoportbaaaaa.";
+
+"[PARTY]_PARTY_LEVEL_LIMIT";
+"[Csoport] Csak -30  +30 szint külömbséggel hívhatsz játékost a csoportba.";
+
+"[PARTY]_PLAYER_CANNOT_INVITE_IN_OBSERVER_MODE";
+"[Csoport] Nem hívhatsz meg játékost megfigyelõ módban.";
+
+"[PARTY]_CANNOT_BE_IN_PARTY_WITH_ANOTHER_EMPIRE";
+"[Csoport] Nem lehetsz csoportban más birodalom tagjaival.";
+
+"[PARTY]_YOU_CANT_KICK_MEMBERS";
+"[Csoport] Te nem dobhatsz ki csoport tagokat.";
+
+"[PARTY]_TARGET_CANNOT_BE_INVITED";
+"[Csoport] Nem hívhatod meg a célpontot.";
+
+"[PARTY]_CANNOT_INVITE_PLAYER_WHILE_YOU_ARE_IN_A_DUNGEON";
+"[Csoport] Nem hívhatsz játékosokat a csoportba, egy kazamatában.";
+
+"[PARTY]_CANNOT_ENTER_WHILE_YOU_ARE_IN_A_DUNGEON";
+"[Csoport] Nem léphetsz be csoportba egy kazamatában.";
+
+"[PARTY]_YOU_CANT_LEAVE_WHILE_YOU_ARE_IN_A_DUNGEON";
+"[Csoport] Nem hagyhatod el a csoportot egy kazamatában.";
+
+"[PARTY]_YOU_CANT_KICK_PLAYER_IN_A_DUNGEON";
+"[Csoport] Nem dobhatsz ki játékost egy kazamatában.";
+
+"[PARTY]_CANNOT_LEAVE_WHILE_IN_A_DUNGEON";
+"[Csoport] Nem léphetsz ki a csoportból egy kazamatában.";
+
+"[PARTY]_CANNOT_KICK_WHILE_IN_A_DUNGEON";
+"[Csoport] Nem dobhatsz ki játékost egy kazamatában.";
+
+"[PARTY]_ONLY_LEADER_CAN_MODIFY";
+"[Csoport] Ezt csak a csoport vezetõ módosíthatja.";
+
+"[PARTY]_TARGET_NOT_IN_YOUR_PARTY";
+"[Csoport] A célpont nem a te csoportod tagja.";
+
+"[PARTY]_UNKNOWN_ERROR_WHILE_CREATING_PARTY";
+"[Csoport] Egy hiba lépett fel a csoport megalakítása közben.";
+
+"[PARTY]_TARGET_NOT_FOUND";
+"[Csoport] A cél nem található.";
+
+"[PARTY]_ERROR_OCCURED_WHILE_MAKING_PLAYER_AS_ATTACKER";
+"[Csoport] Hiba lépett fel a támadónak kinevezés során.";
+
+"[PARTY]_PLAYER_ALREADY_IN_PARTY";
+"[Csoport] %s már csoportban van.";
+
+"[PARTY]_ONLY_LEADER_CAN_USE_SKILLS";
+"[Csoport] Csak a csoport vezetõ használhatja a csoport készségeket.";
+
+"[PARTY]_YOU_CANT_ACCEPT_THE_INVITE";
+"[Csoport] Nem fogadhatod el a meghívást.";
+
+"[PARTY]_PARTY_DISBANDED";
+"[Csoport] A Csoport feloszlott.";
+
+"[PARTY]_TARGET_PLAYER_LEVEL_TOO_LOW";
+"[Csoport] Nem hívhatod meg a játékost, a szintje túl alacsony.";
+
+"[PARTY]_TARGET_PLAYER_LEVEL_TOO_HIGH";
+"[Csoport] Nem hívhatod meg a játékost, a szintje túl magas.";
+
+"[PARTY]_PARTY_LEFT";
+"[Csoport] Kiléptél a csoportból.";
+
+"[PARTY]_YOU_HAVE_BEEN_KICKED";
+"[Csoport] Kirúgtak a csoportból.";
+
+"[PARTY]_PLAYER_NOT_ONLINE";
+"[Csoport] A meghívott játékos nem online.";
+
+"[PARTY]_YOU_DONT_HAVE_THE_RIGHT_TO_INVITE";
+"[Csoport] Neked nincs jogod meghívni egy játékost.";
+
+"[PARTY]_YOU_CANT_INVITE_PLAYERS_IN_THIS_SITUATION";
+"[Csoport] A jelenlegi helyzetben nem hívhatsz meg csoport tagokat.";
+
+"[PARTY]_PARTY_IS_FULL";
+"[Csoport] A csoport már tele van.";
+
+"ATTACK_AGAINST_CASTLE_IN_MINUTES";
+"[Rendszer] A támadás a vár ellen 10 perc múlva kezdõdik.";
+
+"[GUILD]_NEXT_ROUND_IN_MINUTES";
+"[Céh] A következõ kör 10 másodperc múlva kezdõdik.";
+
+"[GUILD]_BATTLE_IN_MINUTES";
+"[Céh] A harc 10 másodperc múlva kezdõdik.";
+
+"TELEPORTING_TO_THE_CITY_IN_MINUTES";
+"[Rendszer] 10 másodperc múlva teleportálhatsz a városba.";
+
+"YOU_WILL_BACK_THERE_AGAIN_IN_MINUTES";
+"[Rendszer] 10 másodperc múlva visszakerülsz.";
+
+"[OX]_ANSWERS_IN_MINUTES";
+"[OX] A választ megtudod 5 másodperc múlva.";
+
+"DISCONNECT_FROM_SERVER_IN_MINUTES";
+"[Rendszer] Lekapcsolódás a szerverrõl 10 másodperc múlva.";
+
+"CHOOSE_NUMBER_BETWEEN_X_AND_Y";
+"[Rendszer] Válassz egy számot 1 és 50 között.";
+
+"[GUILD_WAR]_WAR_WILL_END_IF_NO_ENEMY";
+"[Céh] Ha nincs ellenség, a háború automatikusan véget ér.";
+
+"[SHOP]_CANNOT_OPEN_SHOP_BECAUSE_OF_GOLD_OVERFLOW";
+"[Bolt] A bolt nyitása nem sikerült, mert egyszerre maximum 1 billiárd arany lehet nálad.";
+
+"[SHOP]_CANNOT_WITHDRAW_MONEY_BECAUSE_OF_GOLD_OVERFLOW";
+"[Bolt] Nem veheted át a kijelölt összeget, mert egyszerre maximum 1 billiárd arany lehet nálad.";
+
+"[GIFT]_CANNOT_WITHDRAW_MONEY_BECAUSE_OF_GOLD_OVERFLOW";
+"[Rendszer] Nem veheted át a kijelölt összeget, mert egyszerre maximum 1 billiárd arany lehet nálad.";
+
+"[SHOP_MANAGER]_CANNOT_SELL_AT_THAT_PRICE_BECAUSE_OF_GOLD_OVERFLOW";
+"[Bolt] Nem adhatod el ennyiért a tárgyat, mert egyszerre maximum 1 billiárd arany lehet nálad.";
+
+"DEFEAT_THE_FIRE_OF_POWER_IN_MINUTES";
+"[Rendszer] Gyõzd le 30 percen belül a hatalom tüzét.";
+
+"MINUTES_PASSED_FIRE_OF_POWER_VANISHING";
+"[Rendszer] Letelt a 30 perc.. a hatalom tüze eltûnik.";
+
+"YOU_CAN_CONNECT_IN_MINUTES";
+"[Rendszer] 5 Perc múlva csatlakozhatsz.";
+
+"[OX]_THOSE_WHO_ANSWERED_WRONG_WILL_BE_OUT";
+"[OX] Akik rosszul válaszoltak, 5 másodperc múlva kiesnek.";
+
+"[OX]_ANSWER_YES";
+"[OX] Igen (O)";
+
+"[OX]_CANNOT_PARTICIPATE_ANY_MORE_PLAYER";
+"[OX] Többen nem vehetnek részt az eventen.";
+
+"[OX]_THERE_IS_STILL_ROOM_FOR_PLAYERS_TO_PARTICIPATE";
+"[OX] Még van hely további résztvevõknek.";
+
+"TEST : ÇöÀç ±¹°í : %d";
+"TEST: A jelenlegi költségvetés: %d";
+
+"TEST : È²±ÝµÎ²¨ºñ°¡ ±¹°í·Î È¯¿øµÇ¾ú½À´Ï´Ù.";
+"TEST: Az aranybéka visszakerült a kincstárba.";
+
+"TEST : È²±ÝµÎ²¨ºñ¸¦ ±¹°í·Î È¯¿øÇÒ ¼ö ¾ø½À´Ï´Ù.";
+"TEST: Az aranybéka nem került vissza a kincstárba.";
+
+"[OX]_ANSWER_NO";
+"[OX] Nem (X)";
+
+"YOU_MUST_STAND_STILL_TO_EQUIP";
+"[Rendszer] Nyugton kell maradnod a tárgy felvételéhez.";
+
+"[THREEWAY_WAR]_INFORMATIONS_ABOUT_EMPIRES";
+"[Birodalmi háború] Információ a birodalmakról";
+
+"YOU_MUST_UNEQIP_ARMOR_TO_OPEN_SHOP";
+"[Rendszer]A bolt nyitásához, le kell venned a vérted.";
+
+"[GM_STAT_INCREASE]_INVALID_VALUE";
+"[Rendszer] Hibás értéket adtál meg.";
+
+"[REFINE]_YOU_CANT_USE_THAT";
+"[Rendszer] Ezt nem használhatod.";
+
+"METIN_STONE_LIMIT_REACHED_IN_ITEM";
+"[Rendszer] Nem foglalhatsz le több metin követ.";
+
+"NOT_ENOUGH_SPACE_TO_THIS_ITEM_TO_EQUIP";
+"[Rendszer] Ezt nem tudod elhelyezni.";
+
+"[GM_GUILD_BUILD]_CANNOT_PLACE_MOR_OF_THIS_OBJECT";
+"[Rendszer] Ebbõl az épületbõl nem lehet több.";
+
+"YOUR_LEVEL_WILL_BE_LOWER_THAN_THE_ITEM_AFTER_REFINEMENT";
+"[Rendszer] A szinted kisebb lesz mint a tárgyhoz szükséges szint, a feljavítás után.";
+
+"MAX_LEVEL_REFINE";
+"[Rendszer] A szinted nagyobb lesz mint a tárgyhoz szükséges szint, a feljavítás után.";
+
+"NOT_ENOUGH_GOLD_FOR_REFEINEMENT";
+"[Rendszer] Nincs elég Arany a javításhoz.";
+
+"NOT_ENOUGH_MATERIAL_FOR_REFINEMENT";
+"[Rendszer] Nincs megfelelõ tárgyad a javításhoz.";
+
+"CANNOT_OPEN_PRIV_SHOP_IN_ARENA";
+"[Rendszer] Nem nyithatod meg a raktárat az arénában.";
+
+"CANNOT_USE_SUMMON_SCROLL_AFTER_SHOP_USE";
+"[Rendszer] %d másodpercet várnod kell bolt zárás után!";
+
+"CANNOT_MOUNTABLE";
+"[Rendszer] Ezt nem lovagolhatod meg.";
+
+"CANNOT_OPEN_WAREHOUSE_AFTER_EXCHANGE_IN_MINUTES";
+"[Rendszer] Kereskedés után nem nyithatod meg a raktárat %d másodpercig.";
+
+"CANNOT_USE_SUMMON_SCROLL_AFTER_EXCHANGE";
+"[Rendszer] Kereskedés után nem használhatsz visszaállító tekercset %d másodpercig.";
+
+"CANNOT_TELEPORT_AFTER_EXCHANGE";
+"[Rendszer] Nem mehetsz el a kereskedés után %d másodpercig.";
+
+"CANNOT_USE_SUMMON_SCROLL_WHILE_ANY_WINDOW_OPEN";
+"[Rendszer] Nem használhatod a Visszaállító Tekercset amígy nyitva van egy ablak.";
+
+"CANNOT_DO_THAT_AFTER_EXCHANGE";
+"[Rendszer] Kereskedés után egy ideig nem léphetsz ki, és nem mehetsz el.";
+
+"CANNOT_OPEN_WAREHOUSE_UNTIL_ANOTHER_WINDOW_IS_OPEN";
+"[Rendszer] Nem nyithatod meg a raktárat amíg egy másik ablak nyitva van.";
+
+"[OX]_FALSE";
+"[OX] HAMIS";
+
+"[TEEN]_CONNECTION_WILL_BE_REPAIR";
+"[Teen] A kapcsolat hamarosan helyreáll kérlek várj.";
+
+"[GM_GUILD_BUILD]_NOT_ENOUGH_GOLD";
+"[Rendszer] Nincs elég Arany az épület megépítéséhez";
+
+"[GM_GUILD_BUILD]_CANNOT_PLACE_HERE";
+"[Rendszer] Ezt az épületet nem helyezheted itt el.";
+
+"[GM_GUILD_BUILD]_FOR_THIS_YOU_NEED_A_MAIN_BUILDING";
+"[Rendszer] Ehhez az épülethez szükséged van egy fõépületre.";
+
+"[TEEN]_STARTING_LOVE_POINT_AMOUNT";
+"Teen] A kezdeti szerelmi pont, minden házasságnál 50 %.";
+
+"DISCONNECT_FROM_SERVER_PLEASE_WAIT";
+"[Rendszer] Lekapcsolódás a szerverrõl. Kérlek várj.";
+
+"[BILLING]_TIME_EXPIRES_IN_VALUE";
+"[Rendszer] Az idõ %d perc múlva lejár.";
+
+"NOT_MARRIED_CANNOT_USE_MARRIAGE_RING";
+"[Rendszer] Nem viselheted az eljegyzési gyûrût ha nem vagy házas";
+
+"MARRIAGE_WILL_END_SOON";
+"[Rendszer] Az esküvõ hamarosan véget ér";
+
+"NOT_MARRIED_CANNOT_USE_ITEM";
+"[Rendszer] Nem használhatod ezt a tárgyat ha nem vagy házas.";
+
+"EXP_LOOT_RATIO_AMOUNT";
+"[Rendszer] A tapasztalat pont szerzés aránya jelenleg +%d%%!";
+
+"EXP_AMOUNT";
+"[Rendszer] Tapasztalati pont: %d%%";
+
+"NOT_ENOUGH_EXP_POINT_TO_READ";
+"[Rendszer] Nincs elég tapasztalati pontod az olvasáshoz.";
+
+"BAIT_LOST";
+"[Halászat] Elveszítetted a csalit.";
+
+"FISH_CATCHED";
+"[Halászat] Kifogtál egy halat! (%s)";
+
+"FISH_DISAAPEARD_IN_DEEP_WATER";
+"[Halászat] A hal eltûnt a mély vízbe.";
+
+"[GM]_MINING_POINTS_MAXED";
+"[Bányászat] A bányászati pontjaid elérték a maximumot (%d).";
+
+"MINING_POINTS_MAXED";
+"[Bányászat] A bányászati pontjaid elérték a legmagasabb szintet.";
+
+"PICKAXE_NEEDED";
+"[Bányászat] Nem bányászhatsz csákány nélkül.";
+
+"GET_A_PICKAXE";
+"[Bányászat] Szerezz egy csákányt.";
+
+"MINING_POINTS_INCREASED";
+"[Bányászat] A bányászati pontjaid emelkedtek! (%d/%d)";
+
+"GOLD_DROP_RATE_AMOUNT";
+"[Rendszer] Az arany dobás arány jelenleg +%d%%!";
+
+"AFFECT_ATTACK_DAMAGE";
+"Támadóérték+ %d";
+
+"AFFECT_ATTACK_PLUS";
+"Támadás+ %d%%";
+
+"AFFECT_ATTACK_SPEED";
+"Támadó sebesség+%d";
+
+"DONT_WANT_TO_LEARN_MORE";
+"[Rendszer] Nem akarok többet tanulni.";
+
+"CANNOT_PARTICIPATE_IN_WAR_AS_OBSERVER";
+"[Rendszer] Nem vehetsz részt a céh háborún megfigyelõ módban";
+
+"CANNOT_EXCHANGE_IN_OBSERVER_MODE";
+"[Rendszer] Nem kereskedhetsz megfigyelõ módban.";
+
+"PIERCING_HIT";
+"Átható találat %d";
+
+"CANT_USE_THAT";
+"[Rendszer] Ezt nem használhatod.";
+
+"[BATTLE_ARENA]_DEMON_KING_RETREAT";
+"[Rendszer] A démon király visszavonult.";
+
+"[BATTLE_ARENA]_DEMON_KING_DEFEATED";
+"[Rendszer] A démon királyt és csatlósait legyõzték.";
+
+"YOU_CANT_TELEPORT";
+"[Rendszer] Nem tudsz teleportálni.";
+
+"TRAINING_ENDED";
+"[Rendszer] A tréninget befejezted.";
+
+"MY_BODY_IS_FULL_OF_CHI";
+"[Rendszer] Igen, ez jó érzés. A testem tele van Chi-vel.";
+
+"SLOW_AND_CONTINUOSLY_WITHOT_STOP";
+"[Rendszer] Lassan, de folyamatosan ... megállás nélkül.";
+
+"CANNOT_LEARN_THIS_SKILL_TO_GRAND_MASTER";
+"[Rendszer] You cannot train this Skill up to Grand Master.";
+
+"THIS_COMMAND_NOT_EXIST";
+"[Rendszer] Ez a parancs nem létezik.";
+
+"THIS_PLAYER_NOT_EXIST";
+"[Rendszer] Ez a személy nem létezik.";
+
+"GUILD_NOT_EXIST_WITH_THIS_NAME_OR_NUMBER";
+"[Rendszer] Nem létezik céh ilyen névvel vagy számmal.";
+
+"[TEEN]_WHAT_THE_FUCK_IS_THIS";
+"If not, all the stat will become 0 and may harm your health.";
+
+"AFFECT_STRENGTH";
+"Erõ +%d";
+
+"NOT_ENOUGH_STR_TO_USE_THIS";
+"[Rendszer] Nincs elég erõd a használatához.";
+
+"CANNOT_TELEPORT_TO_ANOTHER_EMPIRE";
+"[Rendszer] Nem tudsz másik birodalomba teleportálni.";
+
+"CANT_DO_THAT_IN_ANOTHER_EMPIRE";
+"[Rendszer] Nem teheted másik birodalomban.";
+
+"IMMUNE_CHANCE_TO_STUN";
+"Immunitási esély ájulásra %d%%";
+
+"CANT_JOIN_TO_THE_GUILD";
+"[Rendszer] Nem csatlakozhatsz ehhez a céhez.";
+
+"[GUILD]_MEMBER";
+"Tag";
+
+"[GUILD]_LEADER";
+"Vezetõ";
+
+"[GUILD]_THERE_ARE_NO_ENEMIES";
+"[Céh] Nincsenek ellenfelek.";
+
+"WAR_ENDED_BEFORE_TIME_RESULT_DRAW";
+"Mivel a céh háború idõ elõtt végetért, az eredmény döntetlen lett.";
+
+"IN_MY_DREAM_WHAT";
+"Az álmaimban? Mi van?";
+
+"[MINING]_YOU_CAN_REFINE_YOUR_PICKAXE";
+"[Bányászat] Feljavíthatod a csákányod a favágó segítségével.";
+
+"MYSTERIOUS_LIGHT_APPEAR_ON_THE_TREE";
+"[Rendszer] Titokzatos fény jelenik meg a fán.";
+
+"POLYMORPH_MOB_LEVEL_HIGHER_THAN_YOURS";
+"[Rendszer] Nem változhatsz át, mert amivé változnál nagyobb szintû mint te.";
+
+"[MONARCH]_EMPEROR_INFO";
+"[Rendszer] Császári információ";
+
+"INFORMATION_ABOUT_EMPIRE_WAR";
+"[Rendszer] Információ a birodalmi csatáról";
+
+"CANNOT_CHANGE_BAIT_WHILE_FISHING";
+"[Halászat] Nem cserélhetsz csalit horgászás közben.";
+
+"CANNOT_FISHING_WITHOUT_ROD";
+"[Halászat] Nem horgászhatsz bot nélkül!";
+
+"ROD_CANNOT_BE_REFINED_FURTHER";
+"[Halászat] Nem tudod tovább javítani a horgász botodat.";
+
+"FISHING_ROD_NEEDED";
+"[Halászat] Horgászbotra szükség lesz.";
+
+"YOU_PUT_THE_BAIT_ON_THE_ROD";
+"[Halászat] Felhelyezted a %s csalit a horogra.";
+
+"FISHING_POINTS_INCREASED";
+"[Halászat] A horgászpontjaid emelkedtek! (%d/%d)";
+
+"CARP_FISHING_COMPETITION";
+"[Halászat] Ponty horgász verseny";
+
+"CARP_FISHING_COMPETITION2";
+"[Halászat] Ponty horgász verseny2";
+
+"NOT_ENOUGH_HP";
+"[GM]Nincs elég HP-d.";
+
+"NOT_ENOUGH_STATUS_POINT";
+"[GM] Nincs több státusz pontod.";
+
+"NOT_ENOUGH_REMAINING_STATUS_POINT";
+"[GM] A fennmaradó státuszpont túl kevés.";
+
+"NOT_ENOUGH_MP_TO_USE";
+"Nincs elég MP a használatához.";
+
+"[TEEN]_CANT_USE_IN_HOURS";
+"[Teen] 5 órán keresztül nem használhatod.";
+
+"HORSE_BASE_NAME";
+" Ló";
+
+"READ_SUCCESSFULLY";
+"[Rendszer] Sikeresen elolvasva.";
+
+"ONLY_ONE_TRADE_WINDOW_CAN_BE_OPEN";
+"[Rendszer] Egyszerre nem lehet nyitva több kereskedés.";
+
+"CLOSE_OTHER_WINDOWS_AND_TRY_AGAIN";
+"[Rendszer] Zárd be a többi ablakot és próbáld újra!";
+
+"TARGET_PLAYER_IS_NOT_IN_YOUR_EMPIRE";
+"[Rendszer] Nem hívhatod meg a játékost mert egy másik birodalom tagja.";
+
+"SOMEONE_LOGGED_INTO_YOUR_ACCOUNT";
+"[Rendszer] Valaki bejelentkezett a felhasználó neveddel. Lekapcsolunk a szerverrõl.";
+
+"PREPARE_TO_NEXT_QUESTION";
+"[Rendszer] Készülj fel a következõ kérdésre.";
+
+"SOCKET_NEEDED";
+"[Rendszer] Elõbb hozzá kell adnod a foglalatot";
+
+"QUEST_BUTTON_CLOSE";
+"Bezárás";
+
+"[TEEN]_YOU_LOGGED_IN_FOR_SO_LONG";
+"Túl régóta be vagy jelentkezve";
+
+"[TEEN]_YOU_HAVE_TOO_MUCH_PLAYTIME";
+"A játékidõd túl sok.";
+
+"[TEEN]_PLS_LOG_IN_AGAIN";
+"Kérlek jelentkezz be újra";
+
+"[TEEN]_YOUR_OFFLINE_TIME";
+"Az összes offline idõd: %s, Az összes online idõd: %s.";
+
+"[TEEN]_YOUR_WHOLE_OFFLINE_TIME";
+"Az összes offline idõd: %s.";
+
+"[TEEN]_YOUR_PLAYTIME_RESET";
+"A játékidõd nullázva, mert elérte a 100% -ot.";
+
+"[TEEN]_YOUR_WHOLE_ONLINE_TIME";
+"Az összesített online idõd %d .";
+
+"[TEEN]_YOUR_WHOLE_ONLINE_TIME_SINCE";
+"Az összes online idõd már : %d óra.";
+
+"[DUEL]_HAS_BEEN_DELETED";
+"[Rendszer] Párbaj sikeresen törölve.";
+
+"[DUEL]_CANT_BE_DELETED";
+"[Rendszer] Párbaj törlése sikertelen.";
+
+"[DUEL]_HAS_ENDED";
+"[Rendszer] A párpbaj véget ért.";
+
+"[DUEL]_HAS_ENDED_WITH_TIMEOUT";
+"[Rendszer] A párbaj idõtúllépés miatt véget ért.";
+
+"[DUEL]_UNKNOWN_ERROR_AT_DUEL_START";
+"[Rendszer] Probléma merült fel a párbaj indításánál.";
+
+"[DUEL]_CANT_USE_THIS_ITEM";
+"[Rendszer] Nem használhatod ezt a tárgyat párbaj közben.";
+
+"[DUEL]_STARTED_SUCCESSFULLY";
+"[Rendszer] A párbaj sikeresen elindult.";
+
+"[DUEL]_STARTED";
+"[Rendszer] A párbaj elkezdõdött";
+
+"[DUEL]_ENDED";
+"[Rendszer] A párbaj véget ért.";
+
+"[ARENA]_ERROR_OCCURED_DURING_ARENA_LOAD";
+"[Aréna] Hiba lépett fel az aréna betöltése közben, a párbaj véget ért.";
+
+"[GM_DUEL]_NO_COMBATANTS";
+"No Combatants there.";
+
+"[ARENA]_CANT_USE_THIS_HERE";
+"[Aréna] Nem használhatod ezt a tárgyat az arénában.";
+
+"GOLD_BONUS_DROP_RATE_AMOUNT";
+"[Rendszer] A bonus Arany dobás esélye %d%% -ra növekedett";
+
+"LEVEL_TOO_LOW_TO_LEARN";
+"[Rendszer] Túl alacsony a szinted a tanulás befejezéséhez.";
+
+"CANT_REFINE_FURTHER";
+"[Rendszer] Nem fejlesztheted tovább.";
+
+"SKILL_LEVEL_ALREADY_MAX";
+"[Rendszer] Nem fejlesztheted tovább a készséget.";
+
+"CANT_LEARN_RIDING_FURTHER";
+"[Rendszer] Nem tanulhatsz többet a lovaglásról.";
+
+"CANT_USE_THIS_ITEM_FOR_FURTHER_REFINEMENT";
+"[Rendszer] Nem használhatod a tárgyat további fejlesztésre.";
+
+"CANT_USE_LAST_BONUS_ADDON_FOR_FURTHER_REFINEMENT";
+"[Rendszer] Nem használhatod a tárgyat további fejlesztésre.";
+
+"CANT_USE_THIS_ADDON_YET";
+"[Rendszer] Ezt a tárgyat még nem használhatod";
+
+"[MINING]_CANT_DO_THIS_NOW";
+"[Bányászat] Nem használhatod azt most.";
+
+"CANT_USE_THAT_IN_DUNGEONS";
+"[Rendszer] %s%s nem használható egy kazamatában.";
+
+"POISON_RESISTANCE";
+"Méreg ellenállás %d%%";
+
+"POISON_CHANCE";
+"Mérgezési esély %d";
+
+"LONGVALUE_GOLD_RECEIVED";
+"[Rendszer] %lld Aranyat kaptál.";
+
+"FLOATVALUE_CHANCE_TO_DOUBLE_GOLD_DROP";
+"[Rendszer] 1f% esély a dupla mennyiségû Arany eldobására";
+
+"NOT_ENOUGH_GOLD_OR_INVENTORY_SPACE";
+"[Rendszer] Nincs elég Arany vagy nincs elég hely a leltárban.";
+
+"AYOUR_HORSE_STRONG_AGAINST_MONSTERS";
+"A lovad szörnyek elleni ereje +%d%%";
+
+"YOU_ALREADY_WEAR_THIS_HAIRSTYLE";
+"[Rendszer] Te már viseled ezt a frizurát.";
+
+"TWOHAND_DEFEND";
+"Kétkezes védelem %d%%";
+
+"[POLYMORPH]_CANT_DO_THAT_WHILE_POLYMORPH";
+"[Rendszer] Ezt nem teheted, amíg át vagy változva.";
+
+"[POLYMORPH]_CANT_CHANGE_EQUIP_WHILE_POLYMORPH";
+"[Rendszer] Nem módosíthatod a felszerelésed, amíg át vagy változva";
+
+"LEARN_WAS_SUCCESSFULL_EARNED_MASTER_LEVEL";
+"[Rendszer] A tréning sikeres volt. Elérted a mester szintet";
+
+"[POLYMORPH]_CANT_POLY";
+"[Rendszer] Nem sikerûlt átváltozni.";
+
+"HARD_TO_UNDERSTAND_THIS_TECHNIQUE";
+"[Rendszer] Ezt a technikát nehéz megérteni.";
+
+"DROPPED_ITEM_DECAYS_AFTER_1_MIN";
+"[Rendszer] Az eldobott tárgy 1 perc múlva eltûnik.";
+
+"SKILL_HAS_BEEN_INCREASED";
+"[Rendszer] A képesség emelkedett";
+
+"NEED_LVL_30_TO_DO_THAT";
+"[Rendszer] El kell érned a 30-as szintet hogy ezt megértsd.";
+
+"NEED_LVL_50_TO_DO_THAT";
+"[Rendszer] El kell érned az 50-es szintet hogy ezt megértsd.";
+
+"YOUR_LVL_IS_TOO_LOW";
+"[Rendszer] A szinted túl alacsony a használatához.";
+
+"MAX_LEVEL_LIMIT2";
+"[Rendszer] A szinted túl magas a használatához.";
+
+"BACK_TO_LOGIN_SCREEN";
+"[Rendszer] Vissza a bejelentkezõ ablakhoz. Kérlek várj.";
+
+"¸¦";
+"[Rendszer] 1268-ik sor locale_string";
+
+"MAGIC_ATTACK_VALUE";
+"Mágia támadás + %d";
+
+"MAGIC_DEFENSE";
+"Mágia védelem + %d";
+
+"MAGIC_RESISTANCE";
+"Mágia ellenállás %d%%";
+
+"SOUL_FREED_YOU_FEEL_CLEAN";
+"[Rendszer] A lelked felszabadult, tisztának érzed magad";
+
+"USE_AN_ITEM_TO_CALL_YOUR_HORSE";
+"[Rendszer] Használj egy tárgyat a lovad hívásához";
+
+"HORSE_CALLING_WAS_UNSUCCESSFULL";
+"[Rendszer] A ló hívása nem sikerült.";
+
+"YOUR_HORSE_STAMINA";
+"[Rendszer] A lovad jelenlegi kitartása %s%s.";
+
+"YOU_FED_YOUR_HORSE";
+"[Rendszer] Megetetted a lovad.";
+
+"YOUR_HORSE_CAN_BE_RESURRECTED_ONLY_WITH_PLANT";
+"[Rendszer] A lovadat csak egy növénnyel tudod feléleszteni.";
+
+"FIRST_UNMOUNT_YOUR_HORSE";
+"[Rendszer] Elõbb szállj le a lovadról.";
+
+"YOU_RECALLED_YOUR_HORSE";
+"[Rendszer] Visszaküldted a lovad.";
+
+"CALL_YOUR_HORSE_FIRST";
+"[Rendszer] Elõbb hívd a lovad.";
+
+"YOU_DONT_HAVE_A_HORSE";
+"[Rendszer] Neked nincs lovad.";
+
+"CANT_USE_EMOTIONS_WHILE_RIDING";
+"[Rendszer] Nem használhatsz érzelmeket, miközben lovon ülsz.";
+
+"CANT_USE_THAT_WHILE_RIDING";
+"[Rendszer] Nem használhatod, miközben lovon ülsz.";
+
+"CANT_FEED_YOUR_HORSE_WHILE_RIDING";
+"[Rendszer] Nem etetheted meg a lovad, miközben rajta ülsz.";
+
+"YOUR_HORSE_IS_EXHAUSTED";
+"[Rendszer] A lovad nagyon kimerült.";
+
+"YOU_DONT_HAVE_A_HORSE_ASK_THE_STABLE_MAN";
+"[Rendszer] Nincs lovad, kérdezd az istállósfiút.";
+
+"YOUR_HORSE_DIED";
+"[Rendszer] A lovad megdöglött.";
+
+"IF_SENTENCE_TRUE_GO_TO_O_ELSE_GO_TO_X";
+"[OX] Ha igaz az állítás sétálj az O-ra, ha hamis akkor az X-re";
+
+"USE_DIAMOND_TO_MAKE_SOCKET";
+"[Fejlesztés] Használd a gyémántot foglalat hozzáadáshoz.";
+
+"FIRSTLY_WAKE_UP";
+"[Rendszer] Elõbb kelj fel.";
+
+"STONE_ADDED_SUCCESSFULLY";
+"[Fejlesztés] Sikeresen hozzáadtad a követ.";
+
+"STONE_ADD_WAS_UNSUCCESSFULL";
+"[Fejlesztés] A kõ hozzáadása nem sikerült.";
+
+"TYPE_THE_WHOLE_COMMAND";
+"[Rendszer] Kérem adja meg a teljes parancsot.";
+
+"COMMAND_INAPPROPRIATE";
+"[Rendszer] A parancs nem megfelelõ.";
+
+"YOU_CANT_MAKE_CAMP_FIRE_HERE";
+"[Rendszer] Itt nem csinálhatsz tábortüzet.";
+
+"FOCUS_YOU_NEED_FOCUS";
+"[Rendszer] Öszpontosítson!.";
+
+"ONE_MINUTE_UNTIL_MONSTERS_ATTACK";
+"[Rendszer] 1 perc a szörnyek támadásáig.";
+
+"FIVE_MINUTE_UNTIL_MONSTERS_ATTACK";
+"[Rendszer] 5 perc a szörnyek támadásáig.";
+
+"MONSTER_LEADER_APPEARED";
+"[Rendszer] A szörnyek vezetõje megjelent.";
+
+"MONSTERS_RETREATED";
+"[Rendszer] A szörnyek visszavonultak.";
+
+"SOME_MONSTER_RETREATED";
+"[Rendszer] Egyes szörnyek visszavonultak.";
+
+"MONSTERS_STARTED_TO_ATTACK";
+"[Rendszer] A szörnyek megkezdék a támadást.";
+
+"STRONG_AGAINST_MONSTERS";
+"Szörny elleni erõ + %d%%";
+
+"MY_SOUL_BURNS_BUT_MY_BODY_CALM";
+"[Rendszer] A lelkem ég, de a testem nyugodt.";
+
+"TRAINING_WAS_SUCCESSFUL";
+"[Rendszer] Sikeres tréning!";
+
+"DEFENSE_AGAINST_SHAMAN";
+"Védelmi esély sámántámadás ellen %d%%";
+
+"STRONG_AGAINST_SHAMAN";
+"Sámánok elleni erõ + %d%%";
+
+"IT_CAN_BE_USED_ONLY_UNDER_ITEM_LEVEL_20";
+"[Fejlesztés] Csak 20 -as szint alatti fegyvereken használható.";
+
+"DEFENSE_AGAINST_WARRIOR";
+"Védelmi esély harcos támadás ellen %d%%";
+
+"STRONG_AGAINST_WARRIOR";
+"Harcosok elleni erõ + %d%%";
+
+"[OX]_QUESTION";
+"[OX] Kérdés:";
+
+"CANT-_MAKE_CAMPFIRE_UNDER_WATER";
+"[Rendszer] Nem csinálhatsz tábortüzet a víz alatt.";
+
+"CHANCE_TO_BLOCK_SHAMAN_ATTACK";
+"%d%% esély a testi támadás kivédésére.";
+
+"YOUR_PERFOMANCE_INCREASE_WHEN_YOU_USE_THAT";
+"[Rendszer] %d%%-al nõ a teljesítmény ha ezt használod.";
+
+"POTION_CRAFT_WAS_NOT_SUCCESSFUL";
+"[Rendszer] Nem sikerült elkészíteni az italt.";
+
+"POTION_NUMBER_IS_NOT_RESTRICTED";
+"[Rendszer] Az italok száma nincs korlátozva.";
+
+"YOU_DONT_HAVE_ENOUGH_MATERIAL_TO_CRAFT_THIS_POTION";
+"[Rendszer] Nincs elegendõ összetevõ az ital elkészítéséhez.";
+
+"AMOUNT_POTION_CA_BE_USED_AT_ONCE";
+"[Rendszer] %d italt használhatsz egyszerre .";
+
+"I_FEEL_REFRESHED";
+"[Rendszer] Úgy érzem felfrissültem.";
+
+"FIRSTLY_ATTACH_A_BAIT_TO_YOUR_ROD";
+"[Horgászat] Elõször akassz egy csalit a horogra.";
+
+"YOURE_NOT_GOOD_ENOUGH_TO_USE_THIS";
+"[Rendszer] Nem vagy elég ügyes a használatához.";
+
+"STRONG_AGAINST_ESOTERIC";
+"Ezotéria elleni erõ+ %d%%";
+
+"WIND_RESSISTANCE";
+"Szél ellenállás %d%%";
+
+"PROTECTION";
+"Védelem + %d";
+
+"DEFENSE";
+"Védekezés + %d%%";
+
+"BELL_DEFENSE";
+"Harang védelem %d%%";
+
+"YOU_FOUND_A_SHELL_INSIDE_THE_FISH";
+"[Horgászat] A halban egy kagyló van.";
+
+"YOU_FOUND_A_WORM_INSIDE_THE_FISH";
+"[Horgászat] A halban egy féreg van.";
+
+"THIS_ITEM_CANNOT_BE_DROPPED";
+"[Rendszer] Nem dobhatod el ezt a tárgyat.";
+
+"THERE_ARE_NO_REPLACEABLE_BONUSES";
+"[Fejlesztés] Nincs cserélhetõ bónusz.";
+
+"CANNOT_BE_REFINED_WHILE_YOURE_POLYMORPHED";
+"[Fejlesztés] Nem tudod fejleszteni miközben át vagy változva.";
+
+"CANNOT_RIDE_WHILE_YOURE_POLYMORPHED";
+"[Rendszer] Nem lovagolhatsz amíg át vagy változva";
+
+"CANNOT_REED_WHILE_YOURE_POLYMORPHED";
+"[Rendszer] Nem olvashatsz könyvet amíg át vagy változva.";
+
+"NO_MORE_SPACE";
+"[Rendszer] Nincs szabad hely.";
+
+"FAN_DEFENSE";
+"Legyezõ védekezés %d%%";
+
+"YOU_CANNOT_OPEN_MORE_SHOP_WITH_THIS_NAME";
+"[Rendszer] Nem nyithatsz boltot ilyen névvel.";
+
+"NOT_ENOUGH_EMPTY_BOTTLE";
+"[Rendszer] Nincs elég üres üveged.";
+
+"ITEM_METIN_STONE_CANNOT_BE_DESTROYED";
+"[Fejlesztés] A metin köveket nem lehet megsemmisíteni.";
+
+"NO_DESTROYABLE_ITEM_METIN_STONE";
+"[Fejlesztés] Nincs eltávolítható kõ.";
+
+"YOU_ALREADY_GOT_YOUR_REWARD";
+"[Rendszer] Már megkaptátok a jutalmatokat.";
+
+"YOU_EXCCEED_THE_LIMIT";
+"[Rendszer] Túllépted a limitet.";
+
+"USE_TRANSFER_CHAR_NAME";
+"Használat: transfer <karakter neve>";
+
+"USE_WARPTO_CHAR_NAME";
+"Használat: warpto <karakter neve>";
+
+"SYSTEM_CANT_USE_THAT";
+"[Rendszer] Ezt nem használhatod";
+
+"CANT_USE_SUMMON_WHILE_EMPIRE_WAR";
+"[Rendszer] Nem használhatsz Visszaállító Tekercset a Birodalmi Csatán.";
+
+"EMPIRE_LOST_IN_EMPIRE_WAR";
+"[Threeway] A  %s birodalom vereséget szenvedett a birodalmi csatában.";
+
+"DUELISTS_SEPARATED";
+"[Arena] A harcosok elkülönítve, a párbaj véget ért.";
+
+"UNKNOWN_ERROR_OCCURED_WITH_YOUR_COMBATANT";
+"[Arena] A harcosoddal probléma lépett fel, a párbaj véget ért.";
+
+"TARGET_PLAYER_DOES_NOT_HAVE_ENOUGH_SPACE_OR_GOLD";
+"[Rendszer] A játékosnak nincs elég helye vagy Aranya!";
+
+"TARGET_PLAYER_DOES_NOT_HAVE_ENOUGH_SPACE";
+"[Rendszer] A játékosnak nincs helye!";
+
+"TARGET_PLAYER_EXCEED_GOLD_LIMIT";
+"[Rendszer] A játékosnál több mint 1 billiárd Arany van!";
+
+"TARGET_PLAYER_IS_ON_X_CHANNEL_WHILE_YOU_ARE_IN_Y";
+"[Rendszer] A játékos a %d CH-n tartózkodik. Te jelenleg a %d Ch-n vagy.";
+
+"PLAYER_DENIED_YOUR_EXCHANGE_REQUEST";
+"[Rendszer] A játékos elutasította  a kereskedést.";
+
+"THE_OTHER_PLAYER_ALREADY_EXCHANGING";
+"[Rendszer] A másik személy épp üzletel, ezért nem tudsz vele kereskedni.";
+
+"PLAYER_ALREADY_TRADING";
+"[Rendszer] A személy jelenleg kereskedik.";
+
+"PLAYER_ALREADY_FIGHTING";
+"[Rendszer] A játékos jelenleg harcol.";
+
+"PLAYER_DENIED_FRIEND_REQUESTS";
+"[Rendszer] A játékos elutasítja hogy hozzáadd a barátlisádhoz.";
+
+"PLAYER_NOT_ONLINE";
+"[Rendszer] A játékos nem online.";
+
+"CANNOT_TELEPORT_TO_THE_PLAYER";
+"[Rendszer] Nem teleportálhatsz a játékoshoz.";
+
+"PLAYER_NOT_IN_PARTY";
+"[Rendszer] A játékos nincs a csoportban.";
+
+"BOX_EXPLODED";
+"[Rendszer] A doboz felrobbant. Lecsökkent az Életerõd";
+
+"BOX_CONTAINS_ITEM_AMOUNT";
+"[Rendszer] Ebben a dobozban %s van %d darab.";
+
+"ITEM_IN_BOX";
+"Egy %s van a dobozban.";
+
+"POISON_OPENED_FROM_BOX";
+"[Rendszer] Ha belélegzed a zöld füstöt a dobozból, a méreg szétterjed a testedben!";
+
+"SLOW_OPENED_FROM_BOX";
+"[Rendszer] Ha belélegzed a vörös füstöt a dobozból, csökken a sebességed!";
+
+"MONSTER_OPENED_FROM_BOX";
+"[Rendszer] Egy szörny ugrott elõ a dobozból";
+
+"EXP_OPENED_FROM_BOX";
+"[Rendszer] Titokzatos fény árad ki a dobozból. Tapasztalati pontot kaptál.";
+
+"TOO_FAR_TO_BUY";
+"[Rendszer] Túl messze állsz a vásárláshoz.";
+
+"TOO_FAR_TO_SELL";
+"[Rendszer] Túl messze állsz az eladáshoz.";
+
+"MUCH_MORE_DIFFICULT_THAN_I_THOUGHT";
+"[Rendszer] Ez így sokkal bonyolultabb, mint gondoltam.";
+
+"HP_REGEN";
+"HP regenerálódás +%d";
+
+"CRITICAL_SERVER_ERROR_RESTARTING";
+"Kritikus szerver hiba. A szerver automatikusan újraindul.";
+
+"RANK_POINTS_INCREASED_WITH_AMOUNT";
+"[Rendszer] A rang pontjaid megemelkedtek %d ponttal.";
+
+"RANK_POINTS_CANNOT_BE_INCREASED_FURTHER";
+"[Rendszer] Nem lehet tovább növelni a rangpontjaidat.";
+
+"GM_THREEWAY_WAR_INFO";
+"[GM] Nézd meg a szent föld térképét %d Bejárat: %d %d %d";
+
+"ITEM_ENCHANT_WAS_SUCCESSFULL";
+"[Fejlesztés] Sikeresen hozzáadtad a bónuszokat.";
+
+"CAN_BE_USE_BY_ANOTHER_GENDER";
+"[Rendszer] Ezt a tárgyat csak a másik nem használhatja.";
+
+"MONARCH_SKILL_CAN_BE_USED_IN_CASTLE_ONLY";
+"[Monarch] Ez a képesség csak a várban használható.";
+
+"MONARCH_DEVILS_ON_HOLY_LAND";
+"[Monarch] Ördögök a szent földön: Ti";
+
+"YOU_CANT_RESTART_HERE_GO_BACK_TO_CITY";
+"[Rendszer] Nem indíthatsz itt újra. Menj vissza a városba.";
+
+"SELL_TAXED_WITH_AMOUNT";
+"[Rendszer] Az eladás megadóztatva %d %-al .";
+
+"SECONDS_TO_SHUTDOWN";
+"[Rendszer] %d másodperc a leállásig.";
+
+"DONT_HAVE_ENOUGH_GOLD_TO_USE_THIS_ITEM";
+"[Rendszer] Nincs nálad elég Arany a tárgy használatához";
+
+"NOT_ENOUGH_SPACE_IN_YOUR_INVENTORY";
+"[Rendszer] Nincs elég hely a leltáradban.";
+
+"YOU_HAVE_TOO_MUCH_ITEM";
+"[Rendszer] Túl sok tárgy van nálad.";
+
+"SOCKET_ADD_WAS_UNSUCCESSFUL";
+"[Fejlesztés] A foglalatot nem sikerült hozzáadni.";
+
+"SOCKET_ADD_WAS_SUCCESSFULL";
+"[Fejlesztés] Foglalat sikeresen hozzáadva.";
+
+"MONARCH_SUMMON_REQUEST_ARRIVED";
+"[Monarch] Idézési kérelmet küldtek.";
+
+"MONARCH_SUMMON_CANNOT_BE_DONE_CHECHK_ID";
+"[Monarch] A szörny nem megidézhetõ, ellenõrizd az ID-t.";
+
+"ENCHANT_ADDED_SUCCESSFULLY";
+"[Fejlesztés] Az új bónusz sikeresen hozzáadva.";
+
+"ENCHANT_ADD_WAS_UNSUCCESSFULL";
+"[Fejlesztés] A bónusz hozzáadása nem sikerült.";
+
+"ENCHANTS_REPLACED";
+"[Fejlesztés] A bónuszok lecserélve.";
+
+"YOU_CANT_MODIFY_ENCHANTS_IN_THIS_ITEM";
+"[Fejlesztés] Nem módosíthatod a bónuszokat ebben a tárgyban.";
+
+"CAN_BE_USED_UNDER_ITEM_LEVEL_40";
+"[Fejlesztés] Csak Lv40 alatti tárgyakhoz használhatod!";
+
+"DEFENSE_AGAINST_SURA";
+"Védelmi esély sura támadás ellen %d%%";
+
+"STRONG_AGAINST_SURA";
+"Surák elleni erõ+ %d%%";
+
+"TRAINING_WAS_UNSUCCESSFULL";
+"[Rendszer] Tréning nem sikerült. Kérlek próbáld újra késõbb.";
+
+"THIS_SKILL_CANNOT_BE_TRAINED";
+"[Fejlesztés] Nem fejlesztheted ezt a képességet.";
+
+"SKILL_DAMAGE";
+"Készségkár %d%%";
+
+"DEFENSE_AGAINST_SKILL_DAMAGE";
+"Készségkárokkal szembeni ellenállás %d%%";
+
+"SKILL_RESET_SUCCESSFULL";
+"[Rendszer] Képesség visszaállítás sikeres.";
+
+"SKILL_RESET_UNSUCCESSFULL";
+"[Rendszer] Képesség visszaállítás sikertelen.";
+
+"STUN_CHANCE";
+"Ájúlási esély+%d";
+
+"SLOW_CHANCE";
+"Lelassulási esély+%d";
+
+"HORSE_MISSION_WAS_UNSUCCESFULL";
+"[Rendszer] Nem sikerült a küldetés.";
+
+"HORSE_SKILL_CAN_BE_ACTIVATED_WITH_RIDING_BOOK";
+"[Rendszer] A lovad harci képességeit a lovagló könyvvel aktiválhatod.";
+
+"STRONG_AGAINST_UNDEAD";
+"Nemhalottak elleni erõ+ %d%%";
+
+"SHINSHOO_EMPIRE";
+"Shinsoo birodalom";
+
+"YOU_CANT_RIDE_WHILE_LAY_ON_GROUND";
+"[Rendszer] Nem tudsz lovagolni, miközben a földön fekszel.";
+
+"CANT_DO_THAT_WHILE_LAY_ON_GROUND";
+"[Rendszer] Nem csinálhatod ezt, amig a földön fekszel.";
+
+"READ_IN_THIS_SEQUENCE_AGAIN_AND_AGAIN";
+"[Rendszer] Olvasd ugyanebben a sorrendbe újra és újra.";
+
+"NOTHING_HAS_BEEN_GIVEN_TO_YOU";
+"[Rendszer] Semmit sem kaptál.";
+
+"CANNOT_USE_SCROLL_AFTER_EXCHANGE_FOR_CERTAIN_SECONDS";
+"[Rendszer] Nem használhatod a tekercset %d miután kereskedtél.";
+
+"ITEM_DROP_RATE_HAS_BEEN_INCREASED_TO";
+"[Rendszer] A tárgyak dropesélye %d%% -ra emelkedett.";
+
+"CHANCE_FOR_DOUBLE_ITEM_DROP";
+"[Rendszer] Esély dupla mennyiségû tárgy eldobására: %. 1f";
+
+"PARTY_MEMBERS_ITEM_PICKED_UP";
+"[Rendszer] Tárgy átadás: %s-hoz, %s ";
+
+"ITEM_RECEIVED";
+"[Rendszer] %s kapott";
+
+"ITEM_RECEIVED_FROM_PARTY_MEMBER";
+"[Rendszer] Tárgy átadás: %s -tól, %s ";
+
+"THIS_ITEM_CANNOT_BE_TRADED";
+"[Rendszer] Nem kereskedhetsz ezzel a tárggyal.";
+
+"MIN_LEVEL_LIMIT";
+"[Rendszer] Túl alacsony szinten vagy, hogy használhasd ezt a tárgyat.";
+
+"MAX_LEVEL_LIMIT";
+"[Rendszer] Túl magas szinten vagy, hogy használhasd ezt a tárgyat.";
+
+"CANNOT_RESTART_AT_CITY_WAIT_SECONDS";
+"[Rendszer] Még nem tudsz újraindulni a városban.Várj további %d másodpercet";
+
+"ITEM_CAN_BE_USABLE_IN_TIME";
+"[Rendszer] Most nem használhatod.";
+
+"YOUR_LEVEL_IS_TOO_LOW_FOR_HORSE_TRAIN";
+"[Rendszer] Túl alacsony a szinted a Lovas kiképzéshez.";
+
+"YOUR_LEVEL_IS_TOO_LOW_FOR_WEARING_HAIR";
+"[Rendszer] Túl alacsony a szinted a frizura viseléséhez.";
+
+"CANT_RESTART_YET_PLEASE_WAIT_SECONDS";
+"[Rendszer] Még nem lehet újraindítani. Kérjük várj további %d másodpercet.";
+
+"STRONG_AGAINST_DEVIL";
+"Ördög elleni erõ+ %d%%";
+
+"GOLD_LIMIT_REACHED";
+"[Rendszer] Több mint 1 billiárd Arany van nálad, ezért nem kereskedhetsz.";
+
+"TWOHAND_DEFENSE";
+"Kétkezes védelem %d%%";
+
+"UNDERSTANDING_THE_TECHNIQUE_MORE";
+"[Rendszer] Egyre jobban érted a technikát.";
+
+"ROD_CAN_BE_UPGRADEABLE_AT_FISHERMAN";
+"[Rendszer] A horgászbot a halásznál fejleszthetõ.";
+
+"HORSE_SKILLS_CAN_BE_RAISED";
+"[Rendszer] Lóképességek emelhetek.";
+
+"ALMOST_DONE";
+"[Rendszer] Majdnem kész! Már nincs sok hátra.";
+
+"COMBO_ATTACK_REACHED_MAX_LEVEL";
+"[Rendszer] A kombó támadás elérte a maximumot.";
+
+"SEEMS_LIKE_ITS_NOT_THAT_KEY";
+"[Rendszer] Úgy tûnik ez nem az a kulcs.";
+
+"THIS_IS_THE_RIGHT_KEY";
+"[Rendszer] Ez lesz a jó kulcs.";
+
+"CANT_BE_OPENED_WITH_THAT_KEY";
+"[Rendszer] Ezzel a kulcsal nem tudod kinyitni.";
+
+"ITS_LOCKED_FIND_THE_RIGHT_KEY";
+"[Rendszer] Ez le van zárva. Találd meg a kulcsot.";
+
+"MUST_LEARN_HARD_TO_LEARN_THIS_TECHNIQUE";
+"[Rendszer] Keményen kell tanulnod hogy megértsd ezt a technikát.";
+
+"ITEM_CANNOT_BE_REFINED";
+"[Rendszer] Nem javíthatod fel ezt a tárgyat.";
+
+"CANT_RIDE_WHILE_WEARING_WEDDING_COSTUME";
+"[Rendszer] Nem lovagolhatsz amíg esküvõiruhát vagy szmokingot viselsz.";
+
+"REACH_X_LEVEL_TO_USE_GLOBAL_CHAT";
+"[Rendszer] %d szintet kell elérni, mielõtt hívni tudsz.";
+
+"DIDNT_LOSE_EXP_DUE_TO_DRAGON_GOD_BLESS";
+"[Rendszer] A SárkányIsten áldása miatt nem vesztettél tapasztalatot.";
+
+"DIDNT_LOSE_ITEM_DUE_TO_DRAGON_GOD_BLESS";
+"[Rendszer] A SárkányIsten áldása miatt nem dobtál el tárgyat.";
+
+"YOU_HAVE_GOT_A_CHAT_BANN";
+"[Rendszer] A beszélgetésed egy GM letiltotta.";
+
+"ASTRONG_AGAINST_ORCS";
+"Ork elleni erõ+ %d%%";
+
+"TELEPORTING_TO_THE_LAST_POSTITOIN__TEST_SERVER_USE_TALISMAN__";
+"[Rendszer] Teleportálj az utolsó pozicióhoz .";
+
+"USED";
+"[Rendszer] Felhasználva.";
+
+"ITEM_CANNOT_BE_TRADEABLE_CANT_PLACE_THAT";
+"[Rendszer] Ez a tárgy nem átadható, ezért nem rakhatod ki a boltba.";
+
+"THIS_ITEM_CANNOT_BE_REFINED_WITH_MUSIN_SCROLL";
+"[Rendszer] Nem fejlesztheted tovább ezzel a tárggyal a felszerelésed.";
+
+"THIS_ITEM_CANNOT_BE_REFINED_WITH_MEMO_SCROLL";
+"[Rendszer] Nem fejlesztheted tovább ezzel a tárggyal a felszerelésed.";
+
+"CANNOT_BE_USED_IN_THIS_SITUATION";
+"[Rendszer] Ez nem használható ebben a helyzetben.";
+
+"THIS_STONE_NOT_FOR_WEAPON";
+"[Rendszer] Nem teheted ezt a követ fegyverbe.";
+
+"THIS_STONE_IS_NOT_FOR_ARMOR";
+"[Rendszer] Nem teheted ezt a követ páncélba.";
+
+"THIS_SKILL_CANNOT_BE_TRAINED_LIKE_THAT_YET";
+"[Rendszer] Még nem fejlesztheted így a képességet.";
+
+"THIS_SKILL_LEVEL_TOO_LOW_TO_TRAIN_WITH_BOOKS";
+"[Rendszer] Ez a készség nem elég magas ahhoz, hogy könyvekkel fejleszd.";
+
+"THIS_SKILL_CANNOT_BE_TRAIN_BY_BOOKS";
+"[Rendszer] Nem fejlesztheted azt a képességet könyvekkel.";
+
+"THIS_ITEM_CANNOT_BE_REFINED_WITH_BDRAGON_SCROLL";
+"[Rendszer] Nem fejlesztheted tovább ezzel a tárggyal a felszerelésed.";
+
+"CANT_ADD_SOCKETS_TO_THIS_ITEM";
+"[Fejlesztés] Nem adhatsz foglalatot ehhez a tárgyhoz.";
+
+"CANNOT_BE_REFINED_FURTHER";
+"[Fejlesztés] A tárgy elérte a maximális szintet.";
+
+"CANNOT_BE_REDINED_FURTHER_WITH_USE_TUNING";
+"[Fejlesztés] A tárgy nem fejleszthetõ tovább. [USE_TUNING]";
+
+"THIS_ITEM_CANNOT_BE_PLACED";
+"[Fejlesztés] Ezt a tárgyat nem tudod elhelyezni.";
+
+"CANNOT_BE_ADDED_MORE_GEM";
+"[Fejlesztés] Nem adhatsz hozzá további drágaköveket.";
+
+"THIS_ITEM_CANT_CONTAIN_SOCKET";
+"[Fejlesztés] Ehhez a tárgyhoz nem adhatsz foglalatot.";
+
+"SOCKET_LIMIT_REACHED";
+"[Fejlesztés] Nem adhatsz hozzá több foglalatot.";
+
+"THIS_SKILL_CANNOT_BE_TRAINED_WITH_BOOKS_ANYMORE";
+"[Rendszer] Ezt a képességet nem fejlesztheted tovább könyvekkel.";
+
+"HARD_TO_UNDERSTAND_THIS_BOOK";
+"[Rendszer] Nem könnyû megérteni ezt a könyvet.";
+
+"THIS_BOOK_ISNT_HELPING";
+"[Rendszer] Ez a könyv nem segít.";
+
+"YOU_MUST_REACH_BIGGER_LEVEL_TO_UNDERSTAND_THIS_BOOK";
+"[Rendszer] El kell érned egy nagyobb szintet hogy megértsd ezt a könyvet.";
+
+"SUMMON_SCROLL_CANNOT_BE_USED_DUE_TO_SMALL_DISTANCE";
+"[Rendszer] Nem használhatod a visszaszállító tekercset, mert a távolság túl kicsi.";
+
+"MOVEMENT_SPEED";
+"Mozgási sebesség+ %d";
+
+"SUMMON_SCROLL_CANNOT_BE_USED_RIGHT_NOW";
+"[Rendszer] Nem használhatsz visszaállító tekercset most.";
+
+"CANT_LEARN_LIKE_THAT";
+"[Rendszer] Nem tudok így tanulni.";
+
+"BAIT_REPLACED_BAIT_NOW";
+"[Horgászat] Kicserélted a csalit. Jelenlegi csali: %s.";
+
+"ALREADY_POLYMORPHED";
+"[Rendszer] Te már át vagy változva.";
+
+"YOU_DECLARED_WAR_TO_THE_GUILD";
+"[Céh] Hadat üzentél a céhnek.";
+
+"YOU_ALREADY_LEARND_THIS_LANGUAGE_WELL";
+"[Rendszer] Te már folyékonyan beszéled ezt a nyelvet.";
+
+"WAR_ALREADY_ENDED";
+"[Rendszer] A háború már véget ért.";
+
+"CUBE_WINDOW_ALREADY_OPENED";
+"[Fejlesztés] A fejlesztési ablak már nyitva van.";
+
+"CANT_ACCEPT_PARTY_INIVITE_ALREADY_A_MEMBER_OF_A_PARTY";
+"[Rendszer] Nem fogadhatsz el csoport meghívást, mert már tagja vagy egy másik csoportnak.";
+
+"THIS_AFFECT_ALREADY_IN_USE";
+"[Rendszer] Ez a hatás már mûködik.";
+
+"YOU_ALREADY_VOTE";
+"[Rendszer] Már szavaztál.";
+
+"CAUGHT_FISH_LENGTH";
+"[Halászat] A kifogott hal hossza %.2fcm.";
+
+"DETECTOR_LOST_IN_A_MYSTERIOUS_LIGHT";
+"[Rendszer] A detektor eltûnt egy titokzatos fényben.";
+
+"DETECTOR_DISAPPEARED";
+"[Rendszer] A detektor eltûnt.";
+
+"NOW_I_UNDERSTAND";
+"[Rendszer] Most már értem!";
+
+"ONE_MORE_AND_YOU_FINISH_THE_TRAINING";
+"[Rendszer] Még 1 és a tréninget befejezted!";
+
+"STRONG_AGAINST_MONSTER";
+"Szörny elleni erõ +%d%%";
+
+"CANT_FIND_PLAYER";
+"[Monarch] Nem találom a játékost.";
+
+"DEFENSE_AGAINST_NINJA";
+"Védelmi esély ninja támadás ellen %d%%";
+
+"STRONG_AGAINST_NINJA";
+"Ninják elleni erõ+ %d%%";
+
+"YOU_CAN_USE_THIS_ONLY_IN_YOUR_EMPIRE";
+"[Monarch] Ezt csak a saját birodalmadban használhatod.";
+
+"CONSTANT";
+"[Rendszer] Állandó.";
+
+"IF_YOU_CHOOSE_YOU_CAN_LEAVE_ANYTIME";
+"[Rendszer] Ha úgy döntessz, bármikor kiléphetsz";
+
+"CANT_CALL_YOURSELF";
+"[Monarch] Nem hívhatod magadat.";
+
+"INSUFFUCIENT_MATERIAL_TO_BUILD";
+"[Rendszer] Nincs elég nyersanyag az építkezéshez.";
+
+"POLYMORPH_ITEM_INVALID";
+"[Rendszer] Ez a gömb hibás. Kérlek jelezd egy játékmester felé.";
+
+"YOU_WILL_BE_TELEPORTED_TO_YOUR_STARTING_CITY";
+"[Rendszer] A map 1 edre leszel teleportálva.";
+
+"EVERYONE_WILL_BE_TELEPORTED_TO_THE_CITY_SOON";
+"[Rendszer] Hamarosan mindenki a városba lesz teleportálva.";
+
+"EQUIPPED_ITEMS_CANNOT_BE_SELL";
+"[Rendszer] Nem adhatsz el felszerelt tárgyakat.";
+
+"EQUIP_WAS_SUCCESSFULL";
+"[Rendszer] A felszerelés sikerült.";
+
+"EQUIP_WAS_UNSUCCESSFULL";
+"[Rendszer] A felszerelés nem sikerült.";
+
+"INSUFFICIENT_INGREDIENTS";
+"[Rendszer] Nincs elég összetevõ (%s).";
+
+"CHANCE_TO_CURE_NEGATIVE_EFFECTS";
+"Esély a negatív hatás gyógyítására: %d%%";
+
+"LIGHTNING_RESISTANCE";
+"Villám ellenállás %d%%";
+
+"SERVER_UNAVAILABLE_GUILD_WAR_CANT_START";
+"[Céh] A céh háború nem indítható, mert a szerver nem elérhetõ.";
+
+"ACTION_INTERRUPTED_YOU_ENTERED_THE_FIGHT";
+"[Rendszer] Cselekvés visszavonva. Beléptél a harcba.";
+
+"OX__RIGHT_ANSWER";
+"[OX] A helyes válasz:";
+
+"[OX]_RIGHT";
+"[OX] Helyes!";
+
+"CASTING_SPEED";
+"Varázs sebesség +%d";
+
+"NOT_ENOUGH_MP";
+"Nincs elég MP.";
+
+"NOT_ENOUGH_MATERIAL";
+"[Fejlesztés] Nincs elég összetevõ.";
+
+"TEEN_LOGINED_AGES_AGO";
+"[Teen] Túl régóta be vagy jelentkezve.";
+
+"BUILDING_DOES_NOT_EXIST";
+"[Rendszer] Az épület nem létezik.";
+
+"PLAYER_DOES_NOT_EXIST";
+"[Rendszer] Ilyen karakter nem létezik.";
+
+"YOURE_TOO_FAR_AWAY";
+"[Rendszer] Túl messze vagy.";
+
+"DRIVED_OFF_THE_CURSE";
+"[Rendszer] Elûzted az átkot";
+
+"YOURE_ALMOST_DONE";
+"[Rendszer] Már majdnem végeztél!";
+
+"DEAD_HORSE_CANNOT_BE_FEED";
+"[Rendszer] Nem etetheted a döglött lovat.";
+
+"LIVING_HORSE_CANNOT_BE_FED_BY_FLOWER";
+"[Rendszer] Nem etetheted az élõ lovat virágokkal.";
+
+"BATTLEARENA_ALTAIR_IS_THE_CENTER_OF_EVILS";
+"[Rendszer] Az oltár a gonoszok központja.";
+
+"YOU_HAVE_THIRTY_MINUTES_TO_DESTROY_POWER_OF_FIRE";
+"[Rendszer] %s 30 perced van elpusztítani a hatalom tüzeit.";
+
+"INTELLIGENCE";
+"Inteligencia +%d";
+
+"NOT_ENOUGH_INT_TO_USE_THAT";
+"[Rendszer] Nincs elég INT a használatához.";
+
+"CHANCE_TO_REFLECT_CLOSE_COMBAT_HIT";
+"Esély a testi támadás visszaverésére: %d%%";
+
+"EMPIRE_JINNO";
+"Jinno birodalom";
+
+"WAIT_SECONDS_TO_EXCHANGE_AGAIN";
+"[Rendszer] Még nem kereskedhetsz újra. Várj %d másodpercet.";
+
+"CANT_USE_THAT_FOR_SECONDS_AFTER_EXCHANGE";
+"[Rendszer] %d másodpercig a kereskedés után nem használhatod.";
+
+"CANT_GO_ANYWHERE_NOW";
+"[Rendszer] Nem mehetsz most sehova.";
+
+"MINING_WAS_SUCCESSFULL";
+"[Bányászat] A bányászat sikeres volt.";
+
+"MINING_WAS_UNSUCCESSFULL";
+"[Bányászat] A bányászat nem sikerült.";
+
+"MINING_FINISHED";
+"[Bányászat] Bányászat kész.";
+
+"WHISPER_CHAT_BLOCK_NOTIFY";
+"[Rendszer] A Chat blokkolva. Legközelebb moderáld magad kérlek";
+
+"CHAT_BLOCK_REMOVED";
+"[Rendszer] A chat blokk feloldva. Legközelebb moderáld magad kérlek.";
+
+"BOOK_READING_WAS_SUCCEESSFULL";
+"[Rendszer] A könyv olvasása sikeres. Befejezted a tréninget.";
+
+"ONLY_FEW_PAGES_LEFT";
+"[Rendszer] Csak néhány oldalt maradt.";
+
+"EMPIRE_CHUNJO";
+"Chunjo birodalom";
+
+"SOCKET_CLEAN_WAS_UNSUCCESSFULL";
+"[Rendszer] Foglalat tisztítás sikertelen.";
+
+"MAX_STAMINA";
+"Max kitartás +%d";
+
+"NOT_ENOUGH_VIT_TO_USE_THAT";
+"[Rendszer] Nincs elég VIT a használatához.";
+
+"ALLTOGETHER";
+"[OX] Öszzesen: %d ";
+
+"MAX_HP_PLUS_DECIMAL";
+"Max HP +%d";
+
+"MAX_HP_PLUS_FLOAT_VALUE";
+"Max HP +%d%%";
+
+"MAX_MP_PLUS_DECIMAL";
+"Max MP +%d";
+
+"MAX_MP_PLUS_FLOAT_VALUE";
+"Max MP +%d%%";
+
+"BLESSING_SCROLL_AND_MAGIC_STONE_CANT_USE_TOGETHER";
+"[Fejlesztés] Az áldás tekercs és a varázsfém nem használható együtt";
+
+"LOGOUT_INTERRUPTED";
+"[Rendszer] A kijelentkezés megszakítva.";
+
+"CHARACTER_CHANGE_PLEASE_WAIT";
+"[Rendszer] Karatert cserélsz. Kérlek várj.";
+
+"COOLDOWN_TIME";
+"Cooldown idõ -%d";
+
+"REUSABLE_AFTER_MINUTES";
+"[Monarch] Újra felhasználhatod %d perc múlva";
+
+"LOADING_ON_REQUEST_PLEASE_WAIT";
+"[Rendszer] Kérése töltõdik. Kérjük, legyen türelemmel.";
+
+"IT_DOESNT_WORK";
+"[Rendszer] Ez nem mûködik. Francba!";
+
+"LOSS_FROM_HP_WILL_DISAPPEAR";
+"Veszteségek %d%%-a a HP-bõl eltûnik.";
+
+"LOSS_FROM_MP_WILL_DISAPPEAR";
+"Veszteségek %d%%-a a MP-bõl eltûnik.";
+
+"CANT_TELEPORT_TO_UNKNOWN_PLAYER";
+"[Monarch] Nem teleportálhatsz ismeretlen játékoshoz.";
+
+"CANT_DO_THAT_WHILE_RIDING";
+"[Rendszer] Nem teheted ezt amíg lovagolsz.";
+
+"SERVER_TEST_TIME_HAS_EXPIRED";
+"[Rendszer] A szerver tesztidõ lejárt";
+
+"YOURE_NOT_IN_PARTY";
+"[Rendszer] Nem vagy csoportban.";
+
+"YOUR_PARTY_COOPERATING_WELL_MORE_EXP_GAINING";
+"A csoportotok együttmûködik, ezért további tapasztalatpontot kaptok.";
+
+"CANT_MAKE_REQUEST_PARTY_LEADER_OFFLINE";
+"[Csoport] Nem intézhetsz kérést, mert a csoportvezetõ nem online";
+
+"SELL_TAED_WITH_AMOUNT";
+"[Rendszer] Az eladás megadóztatva %d %% -al.";
+
+"SKILL_LEVEL_LIMIT_REACHED";
+"[Rendszer] Te már mestere vagy ennek a készségnek. Nem fejlesztheted tovább.";
+
+"AVERAGE_DAMAGE";
+"Átlagos károk %d%%";
+
+"RESSISTANCE_AGAINST_HITS";
+"Resistance against Hits %d%%";
+
+"RELATIONSHIP_ESTABLISHED";
+"A kapcsolat %d és %d között létrejött.";
+
+"SWORD_DEFENSE";
+"Kard védelem %d%%";
+
+"PLAYER_IS_ON_X_CHANNEL";
+"[Rendszer] Ez a játékos a  %d CHn tartózkodik . (Aktuális CH %d)";
+
+"TREASURY_ALLTOGATHER";
+"[Monarch] A jelenlegi kincstári összeg %s - %d.";
+
+"PARTICIPANTS_NUMBER";
+"[OX] A résztvevõk száma: %d ";
+
+"EMPIREWAR_SCORE_BOARD";
+"[Threeway] Aktuális állás: Shinsoo: %d Chunjo: %d Jinno";
+
+"CANT_USE_THAT_HERE";
+"[Rendszer] Ezt nem használhatod ezen a helyen.";
+
+"GUILD_IS_UNDER_WAR";
+"[Rendszer] Az alábbi céhek álnak háborúban egymással: ";
+
+"CANT_COLOR_OR_UNCOLOR_YOUR_CURRENT_HAIR";
+"[Rendszer] Nem festheted vagy fehérítheted az aktuális hajad.";
+
+"FIRE_RESISTANCE";
+"Tûz ellenállás %d%%";
+
+"CHANCE_TO_DODGE_ARROWS";
+"Esély a nyilak elkerülésére %d%%";
+
+"ARROW_RESISTANCE";
+"Nyíl ellenállás %d%%";
+
+"USE_CONCENTRATE_READING";
+"[Rendszer] Használj koncentrált olvasást..";
+
+"ITEM_DROP_RATE";
+"a Tárgy dobás aránya";
+
+"GOLD_DROP_RATE";
+"az Arany dobás aránya";
+
+"ALL_EMPIRE";
+"Minden Királyság";
+
+"EXP_DROP_RATE";
+"az Exp aránya";
+
+"CANT_FISHING_THERE";
+"[Halászat] Itt nem halászhatsz";
+
+"CANT_ADD_MORE_ENCHANT_WITH_THIS";
+"[Fejlesztés] Ezzel a hozzáadóval nem helyezhetõ el több bónusz ebbe a tárgyba.";
+
+"PLAYER_DENIED_YOUR_FRIEND_REQUEST";
+"[Rendszer] A játékos elutasította a barát kérelmet!";
+
+"DROPPED_WITH_DICE_AND_GOT_SOMETHING";
+"[Csoport] %s dobtál. %d kapott. (%d-%d)";
+
+"YOU_DROPPED_WITH_DICE_AND_GOT_POINT";
+"[Csoport] Dobtál a kockával és %d kapott. (%d-%d)";
+
+"UNMOUNT_FIRST";
+"[Rendszer] Épp lovagolsz. Elõbb szálj le a hátasról.";
+
+"GOLD_BOMB";
+"Arany bomba";
+
+"ORES_DISAPPEARED";
+"[Rendszer] Az ércek %s elüntek..";
+
+"You must empty your belt inventory!";
+"Ürítsd ki az öv leltáradat!";
+
+"Channel switch in %d seconds.";
+"[Rendszer] Csatorna váltás %d másodperc múlva.";
+
+"Please enter a valid channel.";
+"[Rendszer] Ez a csatorna nem elérhetõ! ";
+
+"You are already on channel %d.";
+"[Rendszer] Jelenleg is ezen a csatornán tartózkodsz: %d.";
+
+"The map you are at is cross-channel, changing won't have any effect.";
+"[Rendszer] A jelenlegi helyzeted egy kerecsatornán van, ezért a váltás nem lehetséges!";
+
+"You cannot change channel while in a dungeon.";
+"[Rendszer] Kazamatákban a csatornaváltás nem lehetséges.";
+
+"TREASURE_CHEST_CANT_BE_FOUND_NEARBY";
+"[Rendszer] Nem található a közelben Titokzatos kincsesláda";
+
+"CANT_READ_WHILE_FARM_MODE_ON";
+"[Rendszer] Nem olvashatsz könyvet, amíg a farm mód be van kapcsolva!";
+
+"You can't offer exp with Antiexp enabled";
+"[Rendszer] Nem használhatsz fel exp-t amíg a farm mód be van kapcsolva!";
+
+"%s destroyed.";
+"[Rendszer] %s megsemmisítve.";
+
+"The sash window it's already opened.";
+"[Rendszer] A pánt ablak már nyitva van!";
+
+"Before you may close the sash absorption window.";
+"[Rendszer] Elõtte be kell zárnod az abszorpciós ablakot!";
+
+"Before you may close the sash combine window.";
+"[Rendszer] Elõtte be kell zárnod a kombinációs ablakot!.";
+
+"You can't add locked items.";
+"[Rendszer] Nem adhatsz hozzá zárolt tárgyakat!";
+
+"You can't add binded items.";
+"[Rendszer] Nem adhatsz hozzá lélekhez kötött tárgyakat!";
+
+"You can combine just sashes of same grade.";
+"[Rendszer] Csak egyforma értékkel rendelkezõ pántokat kombinálhatsz!";
+
+"This sash got already maximum absorption chance.";
+"[Rendszer] Ez a pánt már elérte a legnagyobb abszorpciós értéket!";
+
+"You can absorb just the bonuses from armors and weapons.";
+"[Rendszer] Csak vértek és fegyverek bónuszait abszorbálhatod!";
+
+"You don't have enough Yang.";
+"[Rendszer] Nincs nálad elegendõ Arany!";
+
+"New absorption rate: %d%";
+"[Rendszer] Új abszorbciós érték: %d%";
+
+"Success.";
+"Sikeres.";
+
+"Failed.";
+"Sikertelen.";
+
+"SHOP_SUCCESS_CLOSE";
+"[Offline Bolt] Boltod bezárásra került. Megmaradt tárgyaidat és a boltoddal keresett Aranyat megtalálod bal oldalt az ajándékoknál.";
+
+"SHOP_MAX_ERR";
+"[Offline Bolt] Nem készíthetsz több boltot!";
+
+"INVENTORY_FULL_ERROR";
+"[Offline Bolt] Nincs elegendõ hely a leltáradban.";
+
+"UNKNOW_ERROR";
+"[Offline Bolt] Egy ismeretlen hiba történt.";
+
+"SHOP_YANG_ADD";
+"[Offline Bolt] Arany kiváltás sikeres.";
+
+"SHOP_CASH_ADD";
+"[Offline Bolt] Arany kiváltás sikeres.";
+
+"SHOP_TIMEOUT";
+"[Offline Bolt] Kérlek várj %d másodpercet, mielõtt boltot nyitsz!";
+
+"GIFT_NOT_EXISTS";
+"[Offline Bolt] Jelenleg az ajánék dobozod üres!";
+
+"GIFT_ADD_SUCCESS";
+"[Offline Bolt] Tárgyat sikeresen hozzá adtuk leltáradhoz.";
+
+"GIFT_ADD_ALL_SUCCESS";
+"[Offline Bolt] Az összes tárgyat sikeresen hozzá adtuk leltáradhoz.";
+
+"SHOP_REASON";
+"Bolt zárás";
+
+"SHOP_NAME";
+"#PLAYER_NAME# Bolt";
+
+"SHOP_PRIV_ERROR";
+"[Offline Bolt] Team tagok nem készíthetnek magánboltot!";
+
+"SHOP_OX_ERROR";
+"[Offline Bolt] OX pályán a boltnyitás nem lehetséges!";
+
+"SHOP_MAP_MAX";
+"[Offline Bolt] Ezen a pályán nem nyithatsz több boltot!";
+
+"SHOP_CANNOT_OPEN_HERE";
+"[Offline Bolt] Ezen a helyen a boltnyitás nem lehetséges!";
+
+"SHOP_CANNOT_EDIT_HERE";
+"[Offline Bolt] Ezen a helyen a bolt szerkesztése nem lehetséges!";
+
+"SHOP_NEED_MONEY";
+"[Offline Bolt] A boltnyitáshoz %lld Aranyra van szükséged!";
+
+"SHOP_TEMP_OFF ";
+"[Offline Bolt] Az offline shop rendszer jelenleg nem elérhetõ!";
+
+"SHOP_EDIT_SUCCESS";
+"[Offline Bolt] A boltban lévõ tárgyak frissítése sikeresen megtörtént.";
+
+"SHOP_ITEM_REASON";
+"[Offline Bolt] Eltávolított tárgy";
+
+"Nu poti folosi un mount atat timp cat esti transformat.";
+"[Rendszer] Nem használhatsz hátast, amíg át vagy változva!";
+
+"Cannot unequip mount if not equipped";
+"[Rendszer] Ha nincs felszerelve, nem tudod le szerelni!";
+
+"You can't put two same items in the same time.";
+"[Rendszer] Nem szerelhetsz fel két egyforma típusú tárgyat!";
+
+"You can't wear a costume weapon without have a weapon weared.";
+"[Rendszer] Nem veheted fel a kosztüm fegyvert, ha nincs rajtad fegyver!";
+
+"You can't wear a costume weapon who has different type of your weapon.";
+"[Rendszer] Nem veheted fel ezt a kosztüm fegyvert, mert nem egyezik meg a jelenleg felszerelt fegyver típusával!";
+
+"WEAPON_SUBTYPE_ERROR";
+"[Rendszer] Nem veheted fel ezt a fegyvert, mert nem egyezik a jelenleg felszerelt kosztüm fegyver típusával!";
+
+"For can do this unwear the costume weapon.";
+"[Rendszer] Elõbb vedd le a kosztüm fegyvered!";
+
+"[OXEVENT] You can not use skills during the event ox !";
+"[OXEVENT] Nem használhatsz skilleket, amíg az OX rendezvényen tartózkodsz!";
+
+"You can't equip armor so fast";
+"[Rendszer] Csak 3 másodpercenként cserélhetsz vértet!";
+
+"refine_overflow";
+"[Rendszer] Valami hiba történt, kérlek jelentsd egy adminisztrátornak!";
+
+"refine_cannot_find_item";
+"[Rendszer] Nem található %s a leltáradban!";
+
+"refine_already_is_increased";
+"[Rendszer] Egyszer már hozzáadtad ezt az elixírt a javításhoz!";
+
+"HIZLI_YAPAMAZSIN";
+"[Rendszer] Várj néhány másodpercet!";
+
+"Cannot open myshop with security key activate";
+"[Rendszer] Nem nyithatsz magánboltot, amíg a karaktered zárolva van! ";
+
+"Cannot use item with security key activate";
+"[Rendszer] Nem használhatsz tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot drop item with security key activate";
+"[Rendszer] Nem dobhatsz el tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot move item with security key activate";
+"[Rendszer] Nem mozdíthatsz el tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot pickup item with security key activate";
+"[Rendszer] Nem vehetsz fel tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot unequip item with security key activate";
+"[Rendszer] Nem szerelhetsz le tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot equip item with security key activate";
+"[Rendszer] Nem szerelhetsz fel tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot onclick with security key activate";
+"[Rendszer] Nem kattinthatsz NPC-re, amíg a karaktered zárolva van! ";
+
+"Cannot use skill with security key activate";
+"[Rendszer] Nem használhatsz skilleket, amíg a karaktered zárolva van! ";
+
+"Cannot refine with security key activate";
+"[Rendszer] Nem fejleszthetsz tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot sash with security key activate";
+"[Rendszer] Nem pántozhatsz, amíg a karaktered zárolva van! ";
+
+"Cannot channel change with security key activate.";
+"[Rendszer] Nem válthatsz CH-t, amíg a karaktered zárolva van! ";
+
+"Cannot open offlineshop with security key activate";
+"[Rendszer] Nem nyithatsz magánboltot, amíg a karaktered zárolva van! ";
+
+"Cannot offlineshop with security key activate";
+"[Rendszer] Nem nézegetheted a boltokat, amíg a karaktered zárolva van! ";
+
+"Cannot send whisper message with security key activate";
+"[Rendszer] Nem küldhetsz privát üzenetet, amíg a karaktered zárolva van! ";
+
+"Cannot send message with security key activate";
+"[Rendszer] Nem használhatod a chat-et, amíg a karaktered zárolva van! ";
+
+"You have already a security password";
+"[Rendszer] Jelenleg már van egy biztonsági jelszavad! ";
+
+"Security key has only 4 - 6 character numbers";
+"[Rendszer] A biztonsági jelszó minimum 4, maximum 6 akrakterbõl álló számkód lehet! ";
+
+"Security key has only number";
+"[Rendszer] A biztonsági jelszó csak számokat tartalmazhat! ";
+
+"Security key successfully created";
+"[Rendszer] Biztonsági jelszavad sikeresen létrehoztad! ";
+
+"Security has been closed";
+"[Rendszer] Jelszó elfogadva! Kellemes játékot kívánunk! ";
+
+"Security key has been successfully changed";
+"[Rendszer] Biztonsági kulcsod sikeresen megváltoztattad! ";
+
+"First New Password And Second Password Not Match";
+"[Rendszer] Az új jelszavak egyike nem egyezik! ";
+
+"Old security key not match";
+"[Rendszer] A régi jelszó nem egyezik! ";
+
+"Cannot start exchange with security key activate";
+"[Rendszer] Nem kereskedhetsz, amíg a karaktered zárolva van! ";
+
+"Cannot start exchange with victim security key activate";
+"[Rendszer] Nem kereskedhetsz, amíg a másik fél karaktere zárolva van! ";
+
+"Cannot withdraw yang from shop, when security key activate.";
+"[Rendszer] Nem vehetsz ki Aranyat, amíg a karaktered zárolva van! ";
+
+"Cannot use biolog, when security key activate.";
+"[Rendszer] Nem adhatsz le tárgyat, amíg a karaktered zárolva van! ";
+
+"Cannot fishing, when security key activate.";
+"[Rendszer] Nem horgászhatsz, amíg a karaktered zárolva van! ";
+
+"Cannot add status point, when security key activate.";
+"[Rendszer] Nem változtathatod meg a státusz pontjaid, amíg a karaktered zárolva van! ";
+
+"Cannot pvp, when security key activate.";
+"[Rendszer] Nem párbajozhatsz, amíg a karaktered zárolva van! ";
+
+"Cannot skillup, when security key activate.";
+"[Rendszer] Nem módosíthatod a skilljeidet, amíg a karaktered zárolva van! ";
+
+"Cannot get gift, when security key activate.";
+"[Rendszer] Nem vehetsz ki tárgyakat, amíg a karaktered zárolva van! ";
+
+"Cannot friendteleport with security key activate.";
+"[Rendszer] Nem teleportálhatsz barátodhoz, amíg a karaktered zárolva van! ";
+
+"Cannot backtocity with security key activate.";
+"[Rendszer] Nem teleportálhatsz a városba, amíg a karaktered zárolva van! ";
+
+"Cannot war with security key activate.";
+"[Rendszer] Nem indíthatsz céh háborút, amíg a karaktered zárolva van! ";
+
+"Cannot accept party request with security key activate.";
+"[Rendszer] Nem fogadhatod el a csoport kérelmet, amíg a karaktered zárolva van! ";
+
+"Cannot create party request with security key activate.";
+"[Rendszer] Nem csinálhatsz csoportot, amíg a karaktered zárolva van! ";
+
+"Cannot use petsystem with security key activate.";
+"[Rendszer] Nem használhatod a Kisállat rendszert, amíg a karaktered zárolva van! ";
+
+"Cannot use cube with security key activate.";
+"[Rendszer] Nem használhatod a kraft rendszert, amíg a karaktered zárolva van! ";
+
+"Cannot get daily reward, when security key activate.";
+"[Rendszer] Nem veheted ki a jutalmad, amíg a karaktered zárolva van!";
+
+"Security key is incorrect";
+"[Rendszer] Hibás jelszó! Próbáld újra! ";
+
+"UNSTUCK_COULD_NOT_FIND_VALID_POSITION_ASK_GM";
+"[Rendszer] Jelenleg nem tudunk kiszabadítani. Vedd fel a kapcsolatot egy GM-el!";
+
+"You can use when you stucked";
+"[Rendszer] Jelenleg nem vagy beszorulva.";
+
+"Cant mount in this map";
+"[Rendszer] Ezen a helyen nem használhatsz hátast!";
+
+"You dont have enough money.";
+"[Rendszer] Nincs elég pénzed!";
+
+"You dont have any cardsets.";
+"[Rendszer] Nincs nálad kártya szett!";
+
+"You dont have space in hands.";
+"[Rendszer] Nincs elég hely a kezedben!";
+
+"You dont have cards.";
+"[Rendszer] Nincs több kártyád!";
+
+"You dont have space on table.";
+"[Rendszer] Nincs elég hely az asztalon!";
+
+"You can not use too fast";
+"[Rendszer] Várj néhány másodpercet";
+
+"Your pet should be summoned!";
+"[Rendszer] A mûvelet végrehajtásához elõ kell hívnod háziállatod!";
+
+"There is a pet in the box already";
+"[Rendszer] A dobozban már van egy házikedvenc.";
+
+"Unknown error occured";
+"[Rendszer] Ismeretlen hiba történt jelentsd egy adminisztártornak!";
+
+"Your pet HP was fulled succesfully.";
+"[Rendszer] Házikedvenced élettartama sikeresen feltöltve.";
+
+"[PetSystem] Wrong pet name";
+"[Rendszer] Helytelen név!";
+
+"[PetSystem]Need 100.000 yang";
+"[Rendszer] Szükséged van 100.000 Aranyra!";
+
+"Your pet expired";
+"[Rendszer] Házikedvenced ideje lejárt, ezért nem helyezheted a dobozba!";
+
+"Your pet HP increased for half";
+"[Rendszer] Házikedvenced élettartama felére növelve.";
+
+"[PetEvolution] You cannot evolve your pet now!";
+"[Rendszer] Házikedvenced jelenleg nem nevelhetõ!";
+
+"[PetEvolution] Items Required:";
+"[Rendszer] Szükségess tárgyak a neveléshez: ";
+
+"You can't evolve your pet!";
+"[Rendszer] Házikedvenced jelenleg nem nevelhetõ!";
+
+"You have to unsummon your pet first.";
+"[Rendszer] Küldd el a házikedvenced!";
+
+"You don't have enought space.";
+"[Rendszer] Nincs elég hely a leltáradban!";
+
+"Your level can't be higher then your pet";
+"[Rendszer] A szinted nem lehet nagyobb mint a házikedvenced szintje!";
+
+"Your %s is sleeping deeply";
+"[Rendszer] %s jelenleg mélyen alszik.";
+
+"Your is sleeping deeply";
+"[Rendszer] Házikedvenced jelenleg mélyen alszik.";
+
+"Your pet is expired";
+"[Rendszer] Házikedvenced elfáradt. További használathoz, töltsd fel az életerejét!";
+
+"WRONG_SNACK_FOR_THIS_PET";
+"[Rendszer] Házikedvenced nem akarja ezt megenni!";
+
+"CANT_FEED_THIS_PET";
+"[Rendszer] Házikedvenc etetése jelenleg nem elérhetõ. Kérjük vedd fel a kapcsolatot egy játékmesterrel!";
+
+" minute(s)";
+" perc";
+
+" second(s)";
+" másodperc";
+
+"You have %d second(s) to destroy the statues, hurry up!";
+"[Céh] %d Másodperc áll rendelkezésre a szobrok elpusztítására. Siessetek!";
+
+"<Guild> The fight against %s just start.";
+"[Céh] A harc %s ellen megkezdõdött.";
+
+"<Guild> The shelter's doors are now opened. The time limit is %d hour(s).";
+"[Céh] A menedék megnyitotta kapuit. Az idõ limit %d óra.";
+
+"<Guild> Compliments, you defeated Meley, the Queen of the Dragons.";
+"[Céh] Sikeresen legyõztétek Meley-t, a Sárkányok Királynõjét.";
+
+"<Guild> Necessary time: %s.";
+"[Céh] Szükséges idõ: %s.";
+
+"<Guild> The dungeon can't be started, please contact our staff.";
+"[Céh] A kazamata jelenleg nem elérhetõ, vedd fel a kapcsolatot egy csapattaggal.";
+
+"<Guild> %d ladder points will be returned.";
+"[Céh] %d rang pont visszatérítve.";
+
+"<Guild> The time limit to fight %s has ended.";
+"[Céh] Az idõlimit %s elleni harchoz lejárt.";
+
+"<Guild> For your safety, you will be teleported out of the refuge in %d second(s).";
+"[Céh] A biztonságotok érdekében, ki lesztek teleportálva a menedékbõl %d másodperc múlva";
+
+"<Guild> All the partecipants will be teleported out in %d seconds.";
+"[Céh] Minden résztvevõ ki lesz teleportálva %d másodpercen belül.";
+
+"[Transmutation] The window is already opened.";
+"[Transzmutáció] Az ablak már nyitva van!";
+
+"[Transmutation] The window is not opened.";
+"[Transzmutáció] Nyisd meg az ablakot!";
+
+"[Transmutation] You cannot transmute an item while it is equipped.";
+"[Transzmutáció] Felszerelt tárgyakat nem transzmutálhatsz!";
+
+"[Transmutation] This item cannot be transmuted.";
+"[Transzmutáció] Ez a tárgy nem transzmutálható!";
+
+"[Transmutation] You can't add binded items.";
+"[Transzmutáció] Lélekhez kötött tárygakat nem lehet transzmutálni!";
+
+"[Transmutation] You can't add locked items.";
+"[Transzmutáció] Zárolt tárgyakat nem lehet transzmutálni!";
+
+"[Transmutation] You can't add items which are transmuted yet.";
+"[Transzmutáció] Ez a tárgy már rendelkezik transzmutációval!";
+
+"[Transmutation] You cannot submit this item.";
+"[Transzmutáció] Ezt a tárgyat nem lehet hozzáadni!";
+
+"[Transmutation] Please submit the item you want to transmute.";
+"[Transzmutáció] Add hozzá a transzmutálni kívánt tárgyat!";
+
+"[Transmutation] You don't have enough Yang.";
+"[Transzmutáció] Nincs nálad elegendõ Arany!";
+
+"You can't remove the transmute because item is binded.";
+"[Rendszer] Nem távolíthatod el a transzmutációt a tárgyból, mert az lélekhez van kötve!";
+
+"You can't remove the transmute because item is locked.";
+"[Rendszer] Nem távolíthatod el a transzmutációt a tárgyból, mert az zárolva van!";
+
+"You didnt take the item in the last 24h, so the reward will be the first one.";
+"[Rendszer] Nem vetted fel az elõzõ nap a jutalmat, ezért a legelsõt kapod meg!";
+
+"GET_REWARD_ERROR";
+"[Rendszer] Még nem veheted fel a jutalmat!";
+
+"Your experience has increased with %d points";
+"[Rendszer] Tapasztalati pontjaid megnõttek %d ponttal.";
+
+"MAX_LEVEL_REACHED";
+"[Rendszer] Elérted a maximáléis szintet, ezért nem használhatod ezt a tárgyat!";
+
+"CANT_EQUIP_WHILE_RIDING";
+"[Rendszer] Nem használhatod, miközben lovagolsz!";
+
+"CAN_BE_USED_ON_COSTUMES_ONLY";
+"[Rendszer] Ezt a tárgyat csak kosztümökön használhatod.";
+
+"PET_ITEM_TIME_LIMIT_EXTENDED";
+"[Rendszer] Házikedvenced idõtartama sikeresen kibõvítve!";
+
+"ITEM_LIMIT_REACHED_MAX";
+"[Rendszer] A tárgy idõtartama jelenleg nem bõvíthetõ.";
+
+"COSTUME_TIME_LIMIT_EXTENDED";
+"[Rendszer] Kosztüm idõtartam sikeresen kibõvítve!";
+
+"CANT_SORT_WITH_OPEN_WINDOWS";
+"[Rendszer] Leltár rendezés nem hajtható végre. Zárj be minden más ablakot!";
+
+"INVENTORY_SORTED";
+"[Rendszer] Leltárad sikeresen rendezésre került.";
+
+"NEXT_SORTING_IN_%d_SECONDS";
+"[Rendszer] Következõ rendezés %d másodpec múlva lehetséges.";
+
+"Cannot remove item from switchbot. Inventory is full.";
+"[Switchbot] Nem távolíthatod el ezt a tárgyat, mert tele a leltárad!";
+
+"Cannot move active switchbot item.";
+"[Switchbot] Nem mozgathatod ezt a tárgyat amíg a forgatás aktív!";
+
+"Invalid item type for switchbot.";
+"[Switchbot] Ez a tárgy nem forgatható a switchbottal!";
+
+"Bonuschange of %s (Slot: %d) successfully finished.";
+"[Switchbot] %s (slot: %d) elkészült.";
+
+"Switchbot stopped. Out of switchers.";
+"[Switchbot] Nincs nálad több 'Megbûvölõ Tárgy', ezért a forgatás nem folytatható.";
+
+"Switchbot stopped. Not enough money.";
+"[Switchbot] Nincs nálad több arany, ezért a forgatás nem folytatható.";
+
+"localization_blocked_maps";
+"[Rendszer] Ezen a pályán nem mentheted el a pozíciódat.";
+
+"localization_blocked_ch99_and_dungeon";
+"[Rendszer] Ezen a csatornán nem mentheted el a pozíciódat.";
+
+"localization_blocked_observerMode";
+"[Rendszer] Nem mentheted el a pozíciódat, amíg megfigyelõ módban vagy.";
+
+"localization_blocked_lastTimeOpenShopOrOther";
+"[Rendszer] Próbáld újra 10 másodperc múlva.";
+
+"localization_not_exist_saved_positions";
+"[Rendszer] Jelenleg nem tudsz ide teleportálni, mert az elmentett pozíció érvénytelen.";
+
+"oxevent_correct_answers";
+"[Rendszer] Eddig %d helyes válaszod van.";
+
+"oxevent_announcement_winner";
+"[Rendszer] %s Gratulálunk a nyereséghez!";
+
+"oxevent_err_status_a";
+"[Rendszer] Az OX rendezvény jelenleg nem fut.";
+
+"oxevent_err_status_b";
+"[Rendszer] Az Ox rendezvény jelenleg regisztráció állapotban van!";
+
+"oxevent_err_status_c";
+"[Rendszer] Regisztráció az OX rendezvényre befejezõdött, mostantól kezdve nem lehet regisztrálni az eseményre.";
+
+"oxevent_err_status_d";
+"[Rendszer] Jelenleg is fut egy kérdés!";
+
+"oxevent_wrong_password_length";
+"[Rendszer] A beírt jelszó túl hosszú.";
+
+"oxevent_wrong_password";
+"[Rendszer] A beírt jelszó érvénytelen!";
+
+"oxevent_error_file_quiz";
+"[Rendszer] oxquiz.lua betöltése sikertelen, kérjük ellenõrizze a fájl elérhetõségét.";
+
+"oxevent_succes_file_quiz";
+"[Rendszer] oxquiz.lua sikeresen betöltve";
+
+"oxevent_succes_start";
+"[Rendszer] Rendezvény indítása.";
+
+"oxevent_start_message_1";
+"[Rendszer] Az OX rendezvény hamarosan megrendezésre kerül.";
+
+"oxevent_start_message_2";
+"[Rendszer] Menj és beszélj Uriel-el, a regisztrációhoz!";
+
+"oxevent_close_gates";
+"[Rendszer] A regisztráció az OX rendezvényre befejezõdött.";
+
+"oxevent_finish";
+"[Rendszer] Az OX rendezvény befejezõdött. Mindenki a városba lesz teleportálva 20 másodpercen belül.";
+
+"oxevent_fail_question";
+"[Rendszer] Helytelen válasz!";
+
+"oxevent_succes_question";
+"[Rendszer] Helyes válasz!";
+
+"oxevent_fail_reward_count";
+"[Rendszer] Probléma a tárgy számával!";
+
+"oxevent_reward_item_chat";
+"[Rendszer] Az OX rendezvény nyertesei a következõ jutalmat kapták meg:";
+
+"oxevent_fail_reward_item";
+"[Rendszer] Ez a tárgy nem létezik!";
+
+"oxevent_force_close";
+"[Rendszer] Az esemény közben egy váratlan hiba lépett fel, ezért befejezzük és indítunk egy újat. Elnézést a kellemetlenségekért.";
+
+"CLIENT_IS_OUTDATED";
+"[Rendszer] A kliensed elavult, ezért lecsatlakoztatunk. Kérjük frissítsd a játékot!";
+
+"CANWARP_EQUAL_FALSE";
+"[Rendszer] Ezt a funkciót jelenleg nem használhatod! Zárj be minden ablakot és várj 10 másodpercet!";
+
+"UGRADED_FULL_SASH_SUCCESFULLY";
+"[Rendszer] %s sikeresen %d%%-ra fejlesztette a következõt: [%s]";
+
+"G1_REFUSED_WAR_AGAINST_G2";
+"[Rendszer] A %s klán elutasított egy háborút a %s klán ellen";
+
+"skill_path_selected";
+"[Rendszer] Sikeresen kiválasztottad a képességeidet.";
+
+"DRAGONSOUL_QUALIFIED";
+"[Rendszer] Gratulálunk a szintlépéshez! Mostantól használhatod a Sárkánykõ alkímiát!";
+
+"NOT_ENOUGH_GAYA";
+"[Gaya] You do not have enough Gaya.";
+
+"UNKNOWN_ERROR_GAYA";
+"[Gaya] Egy hiba történt. Zárj be minden ablakot, gyõzõdj meg róla, hogy jó szellemkövet választottál, majd próbáld újra!";
+
+"NEED_MORE_FROM_SOMETHING";
+"[Gaya] Ehhez a mûvelethez szükséged van a következõre: %ddb %s.";
+
+"NEED_MORE_GOLD";
+"[Gaya] Nincs nálad elég arany.";
+
+"AMOUNT_OF_GAYA";
+"[Gaya] Gaya mennyisége: %d.";
+
+"GAYA_CRAFTING_SUCCESSFUL";
+"[Gaya] Gaya készítés sikeres :cheer:";
+
+"GAYA_CRAFTING_UNSUCCESSFUL";
+"[Gaya] Gaya készítés sikertelen :cry:";
+
+"You have changed the color of your skill.";
+"[Rendszer] Sikeresen megváltoztattad a képességed színét.";
