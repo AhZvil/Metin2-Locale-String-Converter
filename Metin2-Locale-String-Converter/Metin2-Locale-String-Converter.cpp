@@ -32,22 +32,22 @@ int main()
                     continue;
 
                 ++curLineNum;
-                if (curLineNum % 2 == 0)
+                if (curLineNum % 2 != 0)
+                    continue;
+
+                ++finalLineNum;
+                std::string filtered;
+                filtered.reserve(line.size());
+
+                for (const auto& ch : line)
                 {
-                    ++finalLineNum;
-                    std::string filtered;
-                    filtered.reserve(line.size());
+                    if ('"' == ch || ';' == ch)
+                        continue;
 
-                    for (const auto& ch : line)
-                    {
-                        if ('"' == ch || ';' == ch)
-                            continue;
-
-                        filtered.push_back(ch);
-                    }
-
-                    outFile << finalLineNum << "\t" << filtered << std::endl;
+                    filtered.push_back(ch);
                 }
+
+                outFile << finalLineNum << "\t" << filtered << std::endl;
             }
 
             std::cout << "Processing " << fileListLine << " was successful." << std::endl;
