@@ -4,8 +4,8 @@ Process files individually line by line.
 Every line will contain line numbers in the converted file.
 
 ## ⚙️ Features
-- Reads filenames from `file_list.txt` line by line 
-- Processes files line by line from a `Reference` directory
+- Reads filenames from `file_list.txt` 
+- Processes files line by line that exists in `Reference` directory
 - Removes following characters from each line: `"` & `;`
 - Cleaned and numbered lines to a `Converted` directory
 - Error handling for missing or inaccessible files
@@ -58,5 +58,5 @@ Program can handle these kind of errors:
  - Converted directory must exists before running.
  - Every filename inside ./Reference/ folder must match with the name file_list.txt contains line by line.
 
-## 🧑‍💻 Propject Author
+## 🧑‍💻 Project Author
 AhZvil
